@@ -3692,3 +3692,25 @@ DEBUG - 2013-07-10 22:04:27 --> UTF-8 Support Enabled
 DEBUG - 2013-07-10 22:04:27 --> URI Class Initialized
 DEBUG - 2013-07-10 22:04:27 --> Router Class Initialized
 ERROR - 2013-07-10 22:04:27 --> 404 Page Not Found --> register
+DEBUG - 2013-07-10 22:31:55 --> Config Class Initialized
+DEBUG - 2013-07-10 22:31:55 --> Hooks Class Initialized
+DEBUG - 2013-07-10 22:31:55 --> Utf8 Class Initialized
+DEBUG - 2013-07-10 22:31:55 --> UTF-8 Support Enabled
+DEBUG - 2013-07-10 22:31:55 --> URI Class Initialized
+DEBUG - 2013-07-10 22:31:55 --> Router Class Initialized
+DEBUG - 2013-07-10 22:31:55 --> No URI present. Default controller set.
+DEBUG - 2013-07-10 22:31:55 --> Output Class Initialized
+DEBUG - 2013-07-10 22:31:55 --> Security Class Initialized
+DEBUG - 2013-07-10 22:31:55 --> Input Class Initialized
+DEBUG - 2013-07-10 22:31:55 --> XSS Filtering completed
+DEBUG - 2013-07-10 22:31:55 --> XSS Filtering completed
+DEBUG - 2013-07-10 22:31:55 --> XSS Filtering completed
+DEBUG - 2013-07-10 22:31:55 --> XSS Filtering completed
+DEBUG - 2013-07-10 22:31:55 --> CRSF cookie Set
+DEBUG - 2013-07-10 22:31:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-10 22:31:55 --> Language Class Initialized
+DEBUG - 2013-07-10 22:31:55 --> Loader Class Initialized
+DEBUG - 2013-07-10 22:31:55 --> Helper loaded: url_helper
+DEBUG - 2013-07-10 22:31:55 --> Helper loaded: form_helper
+DEBUG - 2013-07-10 22:31:55 --> Database Driver Class Initialized
+DEBUG - 2013-07-10 22:31:55 --> Controller Class Initialized
