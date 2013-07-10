@@ -48,7 +48,7 @@ class Admin extends CI_Controller{
 	}
 
 	public function register(){
-		$this->load->view('register_view');
+		$this->load->view('login_view');
 	}
 
 }

@@ -4,8 +4,13 @@
 <head>
 	<meta charset="utf-8">
 	<title>untitled</title>
-	<style> label {display:block;} .errors { color: red } </style>
-	</head>
+
+	<style> 
+		label {display:block;} 
+		.errors { color: red } 
+	</style>
+	
+</head>
 
 <body>
 
