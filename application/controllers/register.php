@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Welcome extends CI_Controller {
+class Register extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -32,10 +32,9 @@ class Welcome extends CI_Controller {
 
 	public function index()
 	{
-
-
+echo "userCreated!";
+					 die();
 		$this->load->model('admin_model');
-
 		$data['row'] = $this->admin_model->get_users();
 
 		$this->load->view('welcome_message', $data);

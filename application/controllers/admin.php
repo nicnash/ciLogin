@@ -10,11 +10,14 @@ class Admin extends CI_Controller{
 
 	public function index()
 	{
-		
+
 		if($this->input->post('url') == 'login')//just came from clicking login submit button
 		{
+
+
 			if(isset($_SESSION['username']))
 			{
+
 				redirect('welcome');
 			}
 		
@@ -34,21 +37,47 @@ class Admin extends CI_Controller{
 				
 				if($res!==false){
 					//person has an account
-					// echo "PASSED!";
+
 
 					$_SESSION['username'] = $this->input->post('email_address');
 					redirect('welcome');
 				}
 			}
+		$this->load->view('login_view');
 
-			
-		}else //if($this->input->post('url') == 'register')
-		{
-			echo "YOU REGISTERED!";
-			die();
+		}else if($this->input->post('url') == 'register'){
+			$this->load->library('form_validation');
+			$this->form_validation->set_rules('email_address', 'Email Address', 'required|valid_email');
+			$this->form_validation->set_rules('password', 'Password', 'required|min_length[4]');
+
+			if($this->form_validation->run() !== false){
+				//then form validation passed. get from db.
+
+				$this->load->model('admin_model');
+
+				$this->admin_model->create_user(
+					$this->input->post('email_address'), 
+					$this->input->post('password')
+				);
+				
+				redirect('register');
+				// if($res!==false){
+				// 	//person has an account
+				// 	// echo "PASSED!";
+
+				// 	$_SESSION['username'] = $this->input->post('email_address');
+				// 	redirect('welcome');
+				// }
+			}
+
+			$this->load->view('register_view');
+
+
+		}else{
+						$this->load->view('login_view');
+
 		}
 
-		$this->load->view('login_view');
 	}
 
 	public function logout()
@@ -57,7 +86,7 @@ class Admin extends CI_Controller{
 		$this->load->view('login_view');
 	}
 
-	public function register(){
+	function register(){
 		$this->load->view('register_view');
 	}
 
