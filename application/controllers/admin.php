@@ -74,8 +74,7 @@ class Admin extends CI_Controller{
 
 
 		}else{
-						$this->load->view('login_view');
-
+			$this->load->view('login_view');
 		}
 
 	}
@@ -86,8 +85,5 @@ class Admin extends CI_Controller{
 		$this->load->view('login_view');
 	}
 
-	function register(){
-		$this->load->view('register_view');
-	}
 
 }
