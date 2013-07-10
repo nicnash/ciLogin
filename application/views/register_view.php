@@ -15,7 +15,7 @@
 <body>
 
 <h1> Register</h1>
-<?php echo form_open('admin'); ?>
+<?php echo form_open('register'); ?>
 <p>
 	<?php 
 		echo form_label('Email Address:', 'email_address');

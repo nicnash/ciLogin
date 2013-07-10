@@ -33,8 +33,41 @@ class Register extends CI_Controller {
 
 	public function index()
 	{
-		echo "userCreated!";
-		die();
+
+
+		$this->load->library('form_validation');
+		$this->form_validation->set_rules('email_address', 'Email Address', 'required|valid_email');
+		$this->form_validation->set_rules('password', 'Password', 'required|min_length[4]');
+
+		if($this->form_validation->run() !== false){
+			//then form validation passed. get from db.
+
+			$this->load->model('admin_model');
+
+			$this->admin_model->create_user(
+				$this->input->post('email_address'), 
+				$this->input->post('password')
+			);
+
+			$this->load->view('registersuccess_view');
+
+			// if($res!==false){
+			// 	//person has an account
+			// 	// echo "PASSED!";
+
+			// 	$_SESSION['username'] = $this->input->post('email_address');
+			// 	redirect('welcome');
+			// }
+		}
+
+		$this->load->view('register_view');
+
+
+
+
+
+
+
 		// $this->load->model('admin_model');
 		// $data['row'] = $this->admin_model->get_users();
 
