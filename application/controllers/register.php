@@ -23,8 +23,7 @@ class Register extends CI_Controller {
 		session_start();
 		parent::__construct();
 
-echo "register"
-die();
+
 		//if not logged in, deny access (reroute )
 		if(!isset($_SESSION['username']))
 		{
