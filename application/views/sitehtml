@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+<!--********************* POSITION DATE STAMP **************************-->
+<span style="position: absolute; top: 120px; left: 30px; white-space: nowrap; font-family: Arial, Helvetica, sans-serif; font-size: 9pt">
+<SCRIPT LANGUAGE="Javascript"><!--
+
+// ***********************************************
+// AUTHOR: WWW.CGISCRIPT.NET, LLC
+// URL: http://www.cgiscript.net
+// Use the script, just leave this message intact.
+// Download your FREE CGI/Perl Scripts today!
+// ( http://www.cgiscript.net/scripts.htm )
+// ***********************************************
+
+// Get today's current date.
+var now = new Date();
+
+// Array list of days.
+var days = new Array('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday');
+
+// Array list of months.
+var months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
+
+// Calculate the number of the current day in the week.
+var date = ((now.getDate()<10) ? "0" : "")+ now.getDate();
+
+// Calculate four digit year.
+function fourdigits(number)	{
+	return (number < 1000) ? number + 1900 : number;
+								}
+
+// Join it all together
+today =  days[now.getDay()] + ", " +
+              months[now.getMonth()] + " " +
+               date + ", " +
+                (fourdigits(now.getYear())) ;
+// Print out the data.
+document.write("" +today+ "") ;
+  
+//-->
+</SCRIPT>
+
+</span>
+<!--********************* END DATE STAMP **************************-->
+
+
+<img src="http://bbioperations.com/projects/cnpinspect/images/background08.jpg"  border=0 title="">
+
+<!---------------------------- Position CNP Logo  ----------------------------->
+<span style="position: absolute; top: 15px; left: 15px; white-space: nowrap;">
+<A HREF = "http://www.centerpointenergy.com" >
+<IMG SRC="http://bbioperations.com/projects/cnpinspect/images/CNPLogo2.png"  BORDER=0 ></A>
+</span>
+
+
+<!---------------------------- Position BBI Logo  ----------------------------->
+<span style="position: absolute; top: 740px; left: 15px; white-space: nowrap;">
+<A HREF = "http://www.binkleybarfield.com">
+<IMG SRC="http://bbioperations.com/projects/cnpinspect/images/BBILogo.png"  height=95 width=300 BORDER=0 ></A>
+</span>
+
+
+<!---------------------------- Title  ----------------------------->
+<span style="position: absolute; top: 10px; left:350px; font-size: 24pt; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; white-space: nowrap;">
+<B>CenterPoint Service Centers</B>
+<Br>
+</span>
+
+
+
+<!******************************************************************************>
+<div style="position: absolute; top: 20px; left: 45px;">
+<!*                                                                            *>
+<!*                            Begin Project Index                             *>
+<!*                                                                            *>
+<!******************************************************************************>
+
+
+<!---------------------------- Position Service Center - CYPRESS  ----------------------------->
+<span style="position: absolute; top: 180px; left: 440px;">
+  <A HREF="google/Cypress.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Cypress Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - GREENSPOINT ----------------------------->
+<span style="position: absolute; top: 195px; left: 620px;">
+  <A HREF="google/Greenspoint.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Greenspoint Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - HUMBLE ----------------------------->
+<span style="position: absolute; top: 170px; left: 730px;">
+  <A HREF="google/Humble.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Humble Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - KATY  ----------------------------->
+<span style="position: absolute; top: 330px; left: 410px;">
+  <A HREF="google/Katy.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Katy Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - SPRING BRANCH ----------------------------->
+<span style="position: absolute; top: 295px; left: 560px;">
+  <A HREF="google/SpringBranch.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Spring Branch Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - BERRY ----------------------------->
+<span style="position: absolute; top: 270px; left: 695px;">
+  <A HREF="google/Berry.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Berry Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - BELLAIRE ----------------------------->
+<span style="position: absolute; top: 360px; left: 635px;">
+  <A HREF="google/Bellaire.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Bellaire Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - MAGNOLIA PARK ----------------------------->
+<span style="position: absolute; top: 345px; left: 711px;">
+  <A HREF="google/MagnoliaPark.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Magnolia Park Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - CHANNELVIEW ----------------------------->
+<span style="position: absolute; top: 295px; left: 800px;">
+  <A HREF="google/Channelview.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Channelview Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - BAYTOWN ----------------------------->
+<span style="position: absolute; top: 295px; left: 927px;">
+  <A HREF="google/Baytown.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Baytown Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - SOUTH HOUSTON----------------------------->
+<span style="position: absolute; top: 425px; left: 775px;">
+  <A HREF="google/SouthHouston.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="South Houston Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - H.O. CLARKE ----------------------------->
+<span style="position: absolute; top: 480px; left: 640px;">
+  <A HREF="google/HOClarke.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="H.O. Clarke Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - SUGARLAND ----------------------------->
+<span style="position: absolute; top: 430px; left: 547px;">
+  <A HREF="google/Sugarland.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Sugarland Service Center"></A>
+<Br>
+</span>
+
+
+<!---------------------------- Position Service Center - FORT BEND  ----------------------------->
+<span style="position: absolute; top: 562px; left: 460px;">
+  <A HREF="google/FortBend.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Fort Bend Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - ROSHARON ----------------------------->
+<span style="position: absolute; top: 635px; left: 682px;">
+  <A HREF="google/Rosharon.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Rosharon Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - GALVESTON ----------------------------->
+<span style="position: absolute; top: 645px; left: 910px;">
+  <A HREF="google/Galveston.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Galveston Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - WHARTON ----------------------------->
+<span style="position: absolute; top: 615px; left: 280px;">
+  <A HREF="google/Wharton.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Wharton Service Center"></A>
+<Br>
+</span>
+
+<!---------------------------- Position Service Center - BRAZOSPORT ----------------------------->
+<span style="position: absolute; top: 830px; left: 720px;">
+  <A HREF="google/BrazosPort.kml" ><img src="http://bbioperations.com/projects/cnpinspect/images/pin.png" width=20 height=35 border=0 title="Brazosport Service Center"></A>
+<Br>
+</span>
+
+
+</div>

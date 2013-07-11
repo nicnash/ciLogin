@@ -71,6 +71,7 @@
 <body>
 	Hello <?php echo $current_user ?> 
 	<div class="top-right-user-info">
+			 <a href="<?= site_url('/welcome'); ?>"> Home</a>  
 
 		<?php if($is_admin == 1): ?>
 			 <a href="<?= site_url('/register'); ?>"> Create Account</a>  

@@ -13,6 +13,7 @@
 
 <body>
 
+	Hello <?php echo $current_user ?> 
 
 	<div class="top-right-user-info">
 
@@ -28,12 +29,18 @@
 		<a href="<?= site_url('/logout'); ?>"> Logout </a>
 
 	</div>
+
+	<h1><?php $project_info->project_name ?></h1>
 <?php
 // print_r($project_info);
 echo $project_info->bbi_project_id. "<br>";
 echo $project_info->project_name. "<br>";
-
+echo $project_info->html;
 ?>
+
+
+
+
 
 
 

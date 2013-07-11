@@ -52,17 +52,34 @@ class Project extends CI_Controller {
 		
 		$this->load->model('admin_model');
 
-		$data['project_info'] = $this->admin_model->get_project($project_id);
-
-		$data['userrow'] = $this->admin_model->get_users();
-		$data['projectrow'] = $this->admin_model->get_projects();
-		$data['is_admin'] = $this->admin_model->is_admin($_SESSION['username']);
-		$data['current_user'] = $_SESSION['username'];
-
 		$data['userProjectRow'] = $this->admin_model->get_user_projects($_SESSION['username']);
-			
+		$data['is_admin'] = $this->admin_model->is_admin($_SESSION['username']);
 
-		$this->load->view('project_view',$data);
+
+// print_r($data['userProjectRow']);
+		$access=false;
+		foreach ($data['userProjectRow'] as $r) {
+			if($r->project_id == $project_id)
+			{
+				$access=true;
+				break;
+			}
+
+
+		}
+// echo "access= " . $access;
+		if($access == true || $data['is_admin'] == 1){
+			$data['project_info'] = $this->admin_model->get_project($project_id);
+			$data['userrow'] = $this->admin_model->get_users();
+			$data['projectrow'] = $this->admin_model->get_projects();
+			$data['current_user'] = $_SESSION['username'];
+
+				
+
+			$this->load->view('project_view',$data);
+		}else{
+			redirect('admin');
+		}
 
 
 

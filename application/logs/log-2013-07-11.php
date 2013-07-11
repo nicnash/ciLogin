@@ -16453,3 +16453,3571 @@ DEBUG - 2013-07-11 22:56:00 --> Model Class Initialized
 DEBUG - 2013-07-11 22:56:00 --> File loaded: application/views/welcome_message.php
 DEBUG - 2013-07-11 22:56:00 --> Final output sent to browser
 DEBUG - 2013-07-11 22:56:00 --> Total execution time: 0.0104
+DEBUG - 2013-07-11 22:56:56 --> Config Class Initialized
+DEBUG - 2013-07-11 22:56:56 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:56:56 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:56:56 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:56:56 --> URI Class Initialized
+DEBUG - 2013-07-11 22:56:56 --> Router Class Initialized
+DEBUG - 2013-07-11 22:56:56 --> Output Class Initialized
+DEBUG - 2013-07-11 22:56:56 --> Security Class Initialized
+DEBUG - 2013-07-11 22:56:56 --> Input Class Initialized
+DEBUG - 2013-07-11 22:56:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:56:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:56:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:56:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:56:56 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:56:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:56:56 --> Language Class Initialized
+DEBUG - 2013-07-11 22:56:56 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:56:56 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:56:56 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:56:56 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:56:56 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:56:56 --> Model Class Initialized
+DEBUG - 2013-07-11 22:56:56 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:56:56 --> Final output sent to browser
+DEBUG - 2013-07-11 22:56:56 --> Total execution time: 0.0168
+DEBUG - 2013-07-11 23:01:26 --> Config Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:01:26 --> URI Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Router Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Output Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Security Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Input Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:01:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:01:26 --> Language Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:01:26 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:01:26 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Model Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:01:26 --> Final output sent to browser
+DEBUG - 2013-07-11 23:01:26 --> Total execution time: 0.0180
+DEBUG - 2013-07-11 23:01:26 --> Config Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Config Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Config Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Config Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:01:26 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:01:26 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:01:26 --> URI Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:01:26 --> URI Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> URI Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Router Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> URI Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Router Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Router Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Router Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Output Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Output Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Output Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Security Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Security Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Output Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Security Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Input Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Input Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Input Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Security Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> Input Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:01:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:01:26 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:01:26 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:01:26 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:01:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:01:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:01:26 --> Language Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:01:26 --> Language Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Language Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Language Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:01:26 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:01:26 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Model Class Initialized
+ERROR - 2013-07-11 23:01:26 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:01:26 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 34
+DEBUG - 2013-07-11 23:01:26 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:01:26 --> Final output sent to browser
+DEBUG - 2013-07-11 23:01:26 --> Total execution time: 0.0135
+DEBUG - 2013-07-11 23:01:26 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:01:26 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:01:26 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Model Class Initialized
+ERROR - 2013-07-11 23:01:26 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:01:26 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 34
+DEBUG - 2013-07-11 23:01:26 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:01:26 --> Final output sent to browser
+DEBUG - 2013-07-11 23:01:26 --> Total execution time: 0.0206
+DEBUG - 2013-07-11 23:01:26 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:01:26 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:01:26 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Model Class Initialized
+ERROR - 2013-07-11 23:01:26 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:01:26 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 34
+DEBUG - 2013-07-11 23:01:26 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:01:26 --> Final output sent to browser
+DEBUG - 2013-07-11 23:01:26 --> Total execution time: 0.0295
+DEBUG - 2013-07-11 23:01:26 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:01:26 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:01:26 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:01:26 --> Model Class Initialized
+ERROR - 2013-07-11 23:01:26 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:01:26 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 34
+DEBUG - 2013-07-11 23:01:26 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:01:26 --> Final output sent to browser
+DEBUG - 2013-07-11 23:01:26 --> Total execution time: 0.0367
+DEBUG - 2013-07-11 23:03:58 --> Config Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:03:58 --> URI Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Router Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Output Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Security Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Input Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:03:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:03:58 --> Language Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:03:58 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:03:58 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Model Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:03:58 --> Final output sent to browser
+DEBUG - 2013-07-11 23:03:58 --> Total execution time: 0.0151
+DEBUG - 2013-07-11 23:03:58 --> Config Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:03:58 --> URI Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Router Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Output Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Config Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Security Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Config Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Input Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:03:58 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> URI Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> Router Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> URI Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Router Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> Output Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Security Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> Input Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Output Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> Security Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:03:58 --> Input Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Language Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:03:58 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:03:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:03:58 --> Language Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:03:58 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:03:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:03:58 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Language Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Model Class Initialized
+ERROR - 2013-07-11 23:03:58 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:03:58 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 34
+DEBUG - 2013-07-11 23:03:58 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:03:58 --> Final output sent to browser
+DEBUG - 2013-07-11 23:03:58 --> Total execution time: 0.0179
+DEBUG - 2013-07-11 23:03:58 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:03:58 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:03:58 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Model Class Initialized
+ERROR - 2013-07-11 23:03:58 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:03:58 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 34
+DEBUG - 2013-07-11 23:03:58 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:03:58 --> Final output sent to browser
+DEBUG - 2013-07-11 23:03:58 --> Total execution time: 0.0234
+DEBUG - 2013-07-11 23:03:58 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:03:58 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:03:58 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:03:58 --> Model Class Initialized
+ERROR - 2013-07-11 23:03:58 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:03:58 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 34
+DEBUG - 2013-07-11 23:03:58 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:03:58 --> Final output sent to browser
+DEBUG - 2013-07-11 23:03:58 --> Total execution time: 0.0335
+DEBUG - 2013-07-11 23:04:25 --> Config Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:04:25 --> URI Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Router Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Output Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Security Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Input Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:04:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:04:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:04:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:04:25 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:04:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:04:25 --> Language Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:04:25 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:04:25 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Model Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:04:25 --> Final output sent to browser
+DEBUG - 2013-07-11 23:04:25 --> Total execution time: 0.0280
+DEBUG - 2013-07-11 23:04:25 --> Config Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:04:25 --> Config Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> URI Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Router Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:04:25 --> URI Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Output Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Router Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Security Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Input Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Output Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:04:25 --> Security Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:04:25 --> Input Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:04:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:04:25 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:04:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:04:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:04:25 --> Language Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:04:25 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:04:25 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:04:25 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:04:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:04:25 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:04:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:04:25 --> Language Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Model Class Initialized
+ERROR - 2013-07-11 23:04:25 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:04:25 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 34
+DEBUG - 2013-07-11 23:04:25 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:04:25 --> Final output sent to browser
+DEBUG - 2013-07-11 23:04:25 --> Total execution time: 0.0129
+DEBUG - 2013-07-11 23:04:25 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:04:25 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:04:25 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:04:25 --> Model Class Initialized
+ERROR - 2013-07-11 23:04:25 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:04:25 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 34
+DEBUG - 2013-07-11 23:04:25 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:04:25 --> Final output sent to browser
+DEBUG - 2013-07-11 23:04:25 --> Total execution time: 0.0191
+DEBUG - 2013-07-11 23:06:47 --> Config Class Initialized
+DEBUG - 2013-07-11 23:06:47 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:06:47 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:06:47 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:06:47 --> URI Class Initialized
+DEBUG - 2013-07-11 23:06:47 --> Router Class Initialized
+DEBUG - 2013-07-11 23:06:47 --> Output Class Initialized
+DEBUG - 2013-07-11 23:06:47 --> Security Class Initialized
+DEBUG - 2013-07-11 23:06:47 --> Input Class Initialized
+DEBUG - 2013-07-11 23:06:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:06:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:06:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:06:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:06:47 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:06:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:06:47 --> Language Class Initialized
+DEBUG - 2013-07-11 23:06:47 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:06:47 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:06:47 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:06:47 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:06:47 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:06:47 --> Model Class Initialized
+DEBUG - 2013-07-11 23:06:47 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:06:47 --> Final output sent to browser
+DEBUG - 2013-07-11 23:06:47 --> Total execution time: 0.0186
+DEBUG - 2013-07-11 23:07:32 --> Config Class Initialized
+DEBUG - 2013-07-11 23:07:32 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:07:32 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:07:32 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:07:32 --> URI Class Initialized
+DEBUG - 2013-07-11 23:07:32 --> Router Class Initialized
+DEBUG - 2013-07-11 23:07:32 --> Output Class Initialized
+DEBUG - 2013-07-11 23:07:32 --> Security Class Initialized
+DEBUG - 2013-07-11 23:07:32 --> Input Class Initialized
+DEBUG - 2013-07-11 23:07:32 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:07:32 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:07:32 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:07:32 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:07:32 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:07:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:07:32 --> Language Class Initialized
+DEBUG - 2013-07-11 23:07:32 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:07:32 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:07:32 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:07:32 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:07:32 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:07:32 --> Model Class Initialized
+DEBUG - 2013-07-11 23:07:32 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:07:32 --> Final output sent to browser
+DEBUG - 2013-07-11 23:07:32 --> Total execution time: 0.0119
+DEBUG - 2013-07-11 23:08:05 --> Config Class Initialized
+DEBUG - 2013-07-11 23:08:05 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:08:05 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:08:05 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:08:05 --> URI Class Initialized
+DEBUG - 2013-07-11 23:08:05 --> Router Class Initialized
+DEBUG - 2013-07-11 23:08:05 --> Output Class Initialized
+DEBUG - 2013-07-11 23:08:05 --> Security Class Initialized
+DEBUG - 2013-07-11 23:08:05 --> Input Class Initialized
+DEBUG - 2013-07-11 23:08:05 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:08:05 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:08:05 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:08:05 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:08:05 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:08:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:08:05 --> Language Class Initialized
+DEBUG - 2013-07-11 23:08:05 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:08:05 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:08:05 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:08:05 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:08:05 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:08:05 --> Model Class Initialized
+ERROR - 2013-07-11 23:08:05 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:08:05 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 34
+DEBUG - 2013-07-11 23:08:05 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:08:05 --> Final output sent to browser
+DEBUG - 2013-07-11 23:08:05 --> Total execution time: 0.0148
+DEBUG - 2013-07-11 23:08:09 --> Config Class Initialized
+DEBUG - 2013-07-11 23:08:09 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:08:09 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:08:09 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:08:09 --> URI Class Initialized
+DEBUG - 2013-07-11 23:08:09 --> Router Class Initialized
+DEBUG - 2013-07-11 23:08:09 --> Output Class Initialized
+DEBUG - 2013-07-11 23:08:09 --> Security Class Initialized
+DEBUG - 2013-07-11 23:08:09 --> Input Class Initialized
+DEBUG - 2013-07-11 23:08:09 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:08:09 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:08:09 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:08:09 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:08:09 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:08:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:08:09 --> Language Class Initialized
+DEBUG - 2013-07-11 23:08:09 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:08:09 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:08:09 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:08:09 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:08:09 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:08:09 --> Model Class Initialized
+DEBUG - 2013-07-11 23:08:09 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:08:09 --> Final output sent to browser
+DEBUG - 2013-07-11 23:08:09 --> Total execution time: 0.0161
+DEBUG - 2013-07-11 23:09:16 --> Config Class Initialized
+DEBUG - 2013-07-11 23:09:16 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:09:16 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:09:16 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:09:16 --> URI Class Initialized
+DEBUG - 2013-07-11 23:09:16 --> Router Class Initialized
+DEBUG - 2013-07-11 23:09:16 --> Output Class Initialized
+DEBUG - 2013-07-11 23:09:16 --> Security Class Initialized
+DEBUG - 2013-07-11 23:09:16 --> Input Class Initialized
+DEBUG - 2013-07-11 23:09:16 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:16 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:16 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:16 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:16 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:09:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:09:16 --> Language Class Initialized
+DEBUG - 2013-07-11 23:09:16 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:09:16 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:09:16 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:09:16 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:09:16 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:09:16 --> File loaded: application/views/login_view.php
+DEBUG - 2013-07-11 23:09:16 --> Final output sent to browser
+DEBUG - 2013-07-11 23:09:16 --> Total execution time: 0.0085
+DEBUG - 2013-07-11 23:09:20 --> Config Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:09:20 --> URI Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Router Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Output Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Security Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Input Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:20 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:09:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:09:20 --> Language Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:09:20 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:09:20 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Config Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:09:20 --> URI Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Router Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Output Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Security Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Input Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:20 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:09:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:09:20 --> Language Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:09:20 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:09:20 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> Form Validation Class Initialized
+DEBUG - 2013-07-11 23:09:20 --> File loaded: application/views/login_view.php
+DEBUG - 2013-07-11 23:09:20 --> Final output sent to browser
+DEBUG - 2013-07-11 23:09:20 --> Total execution time: 0.0087
+DEBUG - 2013-07-11 23:09:22 --> Config Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:09:22 --> URI Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Router Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Output Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Security Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Input Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:22 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:09:22 --> CSRF token verified
+DEBUG - 2013-07-11 23:09:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:09:22 --> Language Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:09:22 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:09:22 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Form Validation Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-07-11 23:09:22 --> Model Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Config Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:09:22 --> URI Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Router Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Output Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Security Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Input Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:22 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:09:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:09:22 --> Language Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:09:22 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:09:22 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> Model Class Initialized
+DEBUG - 2013-07-11 23:09:22 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:09:22 --> Final output sent to browser
+DEBUG - 2013-07-11 23:09:22 --> Total execution time: 0.0100
+DEBUG - 2013-07-11 23:09:25 --> Config Class Initialized
+DEBUG - 2013-07-11 23:09:25 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:09:25 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:09:25 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:09:25 --> URI Class Initialized
+DEBUG - 2013-07-11 23:09:25 --> Router Class Initialized
+DEBUG - 2013-07-11 23:09:25 --> Output Class Initialized
+DEBUG - 2013-07-11 23:09:25 --> Security Class Initialized
+DEBUG - 2013-07-11 23:09:25 --> Input Class Initialized
+DEBUG - 2013-07-11 23:09:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:25 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:09:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:09:25 --> Language Class Initialized
+DEBUG - 2013-07-11 23:09:25 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:09:25 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:09:25 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:09:25 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:09:25 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:09:25 --> Model Class Initialized
+DEBUG - 2013-07-11 23:09:25 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:09:25 --> Final output sent to browser
+DEBUG - 2013-07-11 23:09:25 --> Total execution time: 0.0106
+DEBUG - 2013-07-11 23:09:27 --> Config Class Initialized
+DEBUG - 2013-07-11 23:09:27 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:09:27 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:09:27 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:09:27 --> URI Class Initialized
+DEBUG - 2013-07-11 23:09:27 --> Router Class Initialized
+DEBUG - 2013-07-11 23:09:27 --> Output Class Initialized
+DEBUG - 2013-07-11 23:09:27 --> Security Class Initialized
+DEBUG - 2013-07-11 23:09:27 --> Input Class Initialized
+DEBUG - 2013-07-11 23:09:27 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:27 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:27 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:27 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:27 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:09:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:09:27 --> Language Class Initialized
+DEBUG - 2013-07-11 23:09:27 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:09:27 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:09:27 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:09:27 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:09:27 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:09:27 --> Model Class Initialized
+DEBUG - 2013-07-11 23:09:27 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:09:27 --> Final output sent to browser
+DEBUG - 2013-07-11 23:09:27 --> Total execution time: 0.0128
+DEBUG - 2013-07-11 23:09:33 --> Config Class Initialized
+DEBUG - 2013-07-11 23:09:33 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:09:33 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:09:33 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:09:33 --> URI Class Initialized
+DEBUG - 2013-07-11 23:09:33 --> Router Class Initialized
+DEBUG - 2013-07-11 23:09:33 --> Output Class Initialized
+DEBUG - 2013-07-11 23:09:33 --> Security Class Initialized
+DEBUG - 2013-07-11 23:09:33 --> Input Class Initialized
+DEBUG - 2013-07-11 23:09:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:33 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:09:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:09:33 --> Language Class Initialized
+DEBUG - 2013-07-11 23:09:33 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:09:33 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:09:33 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:09:33 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:09:33 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:09:33 --> Model Class Initialized
+DEBUG - 2013-07-11 23:09:33 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:09:33 --> Final output sent to browser
+DEBUG - 2013-07-11 23:09:33 --> Total execution time: 0.0135
+DEBUG - 2013-07-11 23:09:38 --> Config Class Initialized
+DEBUG - 2013-07-11 23:09:38 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:09:38 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:09:38 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:09:38 --> URI Class Initialized
+DEBUG - 2013-07-11 23:09:38 --> Router Class Initialized
+DEBUG - 2013-07-11 23:09:38 --> Output Class Initialized
+DEBUG - 2013-07-11 23:09:38 --> Security Class Initialized
+DEBUG - 2013-07-11 23:09:38 --> Input Class Initialized
+DEBUG - 2013-07-11 23:09:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:38 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:09:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:09:38 --> Language Class Initialized
+DEBUG - 2013-07-11 23:09:38 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:09:38 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:09:38 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:09:38 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:09:38 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:09:38 --> Model Class Initialized
+DEBUG - 2013-07-11 23:09:38 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:09:38 --> Final output sent to browser
+DEBUG - 2013-07-11 23:09:38 --> Total execution time: 0.0151
+DEBUG - 2013-07-11 23:09:39 --> Config Class Initialized
+DEBUG - 2013-07-11 23:09:39 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:09:39 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:09:39 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:09:39 --> URI Class Initialized
+DEBUG - 2013-07-11 23:09:39 --> Router Class Initialized
+DEBUG - 2013-07-11 23:09:39 --> Output Class Initialized
+DEBUG - 2013-07-11 23:09:39 --> Security Class Initialized
+DEBUG - 2013-07-11 23:09:39 --> Input Class Initialized
+DEBUG - 2013-07-11 23:09:39 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:39 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:39 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:39 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:09:39 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:09:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:09:39 --> Language Class Initialized
+DEBUG - 2013-07-11 23:09:39 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:09:39 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:09:39 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:09:39 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:09:39 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:09:39 --> Model Class Initialized
+DEBUG - 2013-07-11 23:09:39 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:09:39 --> Final output sent to browser
+DEBUG - 2013-07-11 23:09:39 --> Total execution time: 0.0228
+DEBUG - 2013-07-11 23:10:27 --> Config Class Initialized
+DEBUG - 2013-07-11 23:10:27 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:10:27 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:10:27 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:10:27 --> URI Class Initialized
+DEBUG - 2013-07-11 23:10:27 --> Router Class Initialized
+DEBUG - 2013-07-11 23:10:27 --> Output Class Initialized
+DEBUG - 2013-07-11 23:10:27 --> Security Class Initialized
+DEBUG - 2013-07-11 23:10:27 --> Input Class Initialized
+DEBUG - 2013-07-11 23:10:27 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:10:27 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:10:27 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:10:27 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:10:27 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:10:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:10:27 --> Language Class Initialized
+DEBUG - 2013-07-11 23:10:27 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:10:27 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:10:27 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:10:27 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:10:27 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:10:27 --> Model Class Initialized
+DEBUG - 2013-07-11 23:10:27 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:10:27 --> Final output sent to browser
+DEBUG - 2013-07-11 23:10:27 --> Total execution time: 0.0132
+DEBUG - 2013-07-11 23:11:06 --> Config Class Initialized
+DEBUG - 2013-07-11 23:11:06 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:11:06 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:11:06 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:11:06 --> URI Class Initialized
+DEBUG - 2013-07-11 23:11:06 --> Router Class Initialized
+DEBUG - 2013-07-11 23:11:06 --> Output Class Initialized
+DEBUG - 2013-07-11 23:11:06 --> Security Class Initialized
+DEBUG - 2013-07-11 23:11:06 --> Input Class Initialized
+DEBUG - 2013-07-11 23:11:06 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:11:06 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:11:06 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:11:06 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:11:06 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:11:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:11:06 --> Language Class Initialized
+DEBUG - 2013-07-11 23:11:06 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:11:06 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:11:06 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:11:06 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:11:06 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:11:06 --> Model Class Initialized
+DEBUG - 2013-07-11 23:11:06 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:11:06 --> Final output sent to browser
+DEBUG - 2013-07-11 23:11:06 --> Total execution time: 0.0332
+DEBUG - 2013-07-11 23:15:20 --> Config Class Initialized
+DEBUG - 2013-07-11 23:15:20 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:15:20 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:15:20 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:15:20 --> URI Class Initialized
+DEBUG - 2013-07-11 23:15:20 --> Router Class Initialized
+DEBUG - 2013-07-11 23:15:20 --> Output Class Initialized
+DEBUG - 2013-07-11 23:15:20 --> Security Class Initialized
+DEBUG - 2013-07-11 23:15:20 --> Input Class Initialized
+DEBUG - 2013-07-11 23:15:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:15:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:15:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:15:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:15:20 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:15:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:15:20 --> Language Class Initialized
+DEBUG - 2013-07-11 23:15:20 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:15:20 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:15:20 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:15:20 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:15:20 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:15:20 --> Model Class Initialized
+DEBUG - 2013-07-11 23:15:20 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:15:20 --> Final output sent to browser
+DEBUG - 2013-07-11 23:15:20 --> Total execution time: 0.0119
+DEBUG - 2013-07-11 23:19:00 --> Config Class Initialized
+DEBUG - 2013-07-11 23:19:00 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:19:00 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:19:00 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:19:00 --> URI Class Initialized
+DEBUG - 2013-07-11 23:19:00 --> Router Class Initialized
+DEBUG - 2013-07-11 23:19:00 --> Output Class Initialized
+DEBUG - 2013-07-11 23:19:00 --> Security Class Initialized
+DEBUG - 2013-07-11 23:19:00 --> Input Class Initialized
+DEBUG - 2013-07-11 23:19:00 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:19:00 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:19:00 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:19:00 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:19:00 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:19:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:19:00 --> Language Class Initialized
+DEBUG - 2013-07-11 23:19:00 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:19:00 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:19:00 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:19:00 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:19:00 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:19:00 --> Model Class Initialized
+ERROR - 2013-07-11 23:19:00 --> Severity: Notice  --> Undefined variable: userProjectRow /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php 59
+ERROR - 2013-07-11 23:19:00 --> Severity: Warning  --> Invalid argument supplied for foreach() /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php 59
+ERROR - 2013-07-11 23:19:00 --> Severity: Notice  --> Use of undefined constant access - assumed 'access' /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php 69
+DEBUG - 2013-07-11 23:19:00 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:19:00 --> Final output sent to browser
+DEBUG - 2013-07-11 23:19:00 --> Total execution time: 0.0143
+DEBUG - 2013-07-11 23:19:32 --> Config Class Initialized
+DEBUG - 2013-07-11 23:19:32 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:19:32 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:19:32 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:19:32 --> URI Class Initialized
+DEBUG - 2013-07-11 23:19:32 --> Router Class Initialized
+DEBUG - 2013-07-11 23:19:32 --> Output Class Initialized
+DEBUG - 2013-07-11 23:19:32 --> Security Class Initialized
+DEBUG - 2013-07-11 23:19:32 --> Input Class Initialized
+DEBUG - 2013-07-11 23:19:32 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:19:32 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:19:32 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:19:32 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:19:32 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:19:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:19:32 --> Language Class Initialized
+DEBUG - 2013-07-11 23:19:38 --> Config Class Initialized
+DEBUG - 2013-07-11 23:19:38 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:19:38 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:19:38 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:19:38 --> URI Class Initialized
+DEBUG - 2013-07-11 23:19:38 --> Router Class Initialized
+DEBUG - 2013-07-11 23:19:38 --> Output Class Initialized
+DEBUG - 2013-07-11 23:19:38 --> Security Class Initialized
+DEBUG - 2013-07-11 23:19:38 --> Input Class Initialized
+DEBUG - 2013-07-11 23:19:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:19:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:19:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:19:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:19:38 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:19:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:19:38 --> Language Class Initialized
+DEBUG - 2013-07-11 23:19:38 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:19:38 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:19:38 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:19:38 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:19:38 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:19:38 --> Model Class Initialized
+ERROR - 2013-07-11 23:19:38 --> Severity: Notice  --> Use of undefined constant access - assumed 'access' /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php 69
+DEBUG - 2013-07-11 23:19:38 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:19:38 --> Final output sent to browser
+DEBUG - 2013-07-11 23:19:38 --> Total execution time: 0.0120
+DEBUG - 2013-07-11 23:20:03 --> Config Class Initialized
+DEBUG - 2013-07-11 23:20:03 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:20:03 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:20:03 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:20:03 --> URI Class Initialized
+DEBUG - 2013-07-11 23:20:03 --> Router Class Initialized
+DEBUG - 2013-07-11 23:20:03 --> Output Class Initialized
+DEBUG - 2013-07-11 23:20:03 --> Security Class Initialized
+DEBUG - 2013-07-11 23:20:03 --> Input Class Initialized
+DEBUG - 2013-07-11 23:20:03 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:03 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:03 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:03 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:03 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:20:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:20:03 --> Language Class Initialized
+DEBUG - 2013-07-11 23:20:03 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:20:03 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:20:03 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:20:03 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:20:03 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:20:03 --> Model Class Initialized
+ERROR - 2013-07-11 23:20:03 --> Severity: Notice  --> Use of undefined constant access - assumed 'access' /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php 69
+DEBUG - 2013-07-11 23:20:03 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:20:03 --> Final output sent to browser
+DEBUG - 2013-07-11 23:20:03 --> Total execution time: 0.0146
+DEBUG - 2013-07-11 23:20:04 --> Config Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:20:04 --> URI Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Router Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Output Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Security Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Input Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:04 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:20:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:20:04 --> Language Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:20:04 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:20:04 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Model Class Initialized
+ERROR - 2013-07-11 23:20:04 --> Severity: Notice  --> Use of undefined constant access - assumed 'access' /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php 69
+DEBUG - 2013-07-11 23:20:04 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:20:04 --> Final output sent to browser
+DEBUG - 2013-07-11 23:20:04 --> Total execution time: 0.0138
+DEBUG - 2013-07-11 23:20:04 --> Config Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:20:04 --> URI Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Router Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Output Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Security Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Input Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:04 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:20:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:20:04 --> Language Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:20:04 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:20:04 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Model Class Initialized
+ERROR - 2013-07-11 23:20:04 --> Severity: Notice  --> Use of undefined constant access - assumed 'access' /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php 69
+DEBUG - 2013-07-11 23:20:04 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:20:04 --> Final output sent to browser
+DEBUG - 2013-07-11 23:20:04 --> Total execution time: 0.0163
+DEBUG - 2013-07-11 23:20:04 --> Config Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:20:04 --> URI Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Router Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Output Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Security Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Input Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:04 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:20:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:20:04 --> Language Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:20:04 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:20:04 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:20:04 --> Model Class Initialized
+ERROR - 2013-07-11 23:20:04 --> Severity: Notice  --> Use of undefined constant access - assumed 'access' /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php 69
+DEBUG - 2013-07-11 23:20:04 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:20:04 --> Final output sent to browser
+DEBUG - 2013-07-11 23:20:04 --> Total execution time: 0.0119
+DEBUG - 2013-07-11 23:20:05 --> Config Class Initialized
+DEBUG - 2013-07-11 23:20:05 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:20:05 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:20:05 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:20:05 --> URI Class Initialized
+DEBUG - 2013-07-11 23:20:05 --> Router Class Initialized
+DEBUG - 2013-07-11 23:20:05 --> Output Class Initialized
+DEBUG - 2013-07-11 23:20:05 --> Security Class Initialized
+DEBUG - 2013-07-11 23:20:05 --> Input Class Initialized
+DEBUG - 2013-07-11 23:20:05 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:05 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:05 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:05 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:05 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:20:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:20:05 --> Language Class Initialized
+DEBUG - 2013-07-11 23:20:05 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:20:05 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:20:05 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:20:05 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:20:05 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:20:05 --> Model Class Initialized
+ERROR - 2013-07-11 23:20:05 --> Severity: Notice  --> Use of undefined constant access - assumed 'access' /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php 69
+DEBUG - 2013-07-11 23:20:05 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:20:05 --> Final output sent to browser
+DEBUG - 2013-07-11 23:20:05 --> Total execution time: 0.0280
+DEBUG - 2013-07-11 23:20:06 --> Config Class Initialized
+DEBUG - 2013-07-11 23:20:06 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:20:06 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:20:06 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:20:06 --> URI Class Initialized
+DEBUG - 2013-07-11 23:20:06 --> Router Class Initialized
+DEBUG - 2013-07-11 23:20:06 --> Output Class Initialized
+DEBUG - 2013-07-11 23:20:06 --> Security Class Initialized
+DEBUG - 2013-07-11 23:20:06 --> Input Class Initialized
+DEBUG - 2013-07-11 23:20:06 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:06 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:06 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:06 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:06 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:20:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:20:06 --> Language Class Initialized
+DEBUG - 2013-07-11 23:20:06 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:20:06 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:20:06 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:20:06 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:20:06 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:20:06 --> Model Class Initialized
+ERROR - 2013-07-11 23:20:06 --> Severity: Notice  --> Use of undefined constant access - assumed 'access' /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php 69
+DEBUG - 2013-07-11 23:20:06 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:20:06 --> Final output sent to browser
+DEBUG - 2013-07-11 23:20:06 --> Total execution time: 0.0119
+DEBUG - 2013-07-11 23:20:44 --> Config Class Initialized
+DEBUG - 2013-07-11 23:20:44 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:20:44 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:20:44 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:20:44 --> URI Class Initialized
+DEBUG - 2013-07-11 23:20:44 --> Router Class Initialized
+DEBUG - 2013-07-11 23:20:44 --> Output Class Initialized
+DEBUG - 2013-07-11 23:20:44 --> Security Class Initialized
+DEBUG - 2013-07-11 23:20:44 --> Input Class Initialized
+DEBUG - 2013-07-11 23:20:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:44 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:20:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:20:44 --> Language Class Initialized
+DEBUG - 2013-07-11 23:20:44 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:20:44 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:20:44 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:20:44 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:20:44 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:20:44 --> Model Class Initialized
+DEBUG - 2013-07-11 23:20:44 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:20:44 --> Final output sent to browser
+DEBUG - 2013-07-11 23:20:44 --> Total execution time: 0.0126
+DEBUG - 2013-07-11 23:20:49 --> Config Class Initialized
+DEBUG - 2013-07-11 23:20:49 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:20:49 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:20:49 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:20:49 --> URI Class Initialized
+DEBUG - 2013-07-11 23:20:49 --> Router Class Initialized
+DEBUG - 2013-07-11 23:20:49 --> Output Class Initialized
+DEBUG - 2013-07-11 23:20:49 --> Security Class Initialized
+DEBUG - 2013-07-11 23:20:49 --> Input Class Initialized
+DEBUG - 2013-07-11 23:20:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:49 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:20:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:20:49 --> Language Class Initialized
+DEBUG - 2013-07-11 23:20:49 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:20:49 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:20:49 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:20:49 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:20:49 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:20:49 --> File loaded: application/views/login_view.php
+DEBUG - 2013-07-11 23:20:49 --> Final output sent to browser
+DEBUG - 2013-07-11 23:20:49 --> Total execution time: 0.0091
+DEBUG - 2013-07-11 23:20:56 --> Config Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:20:56 --> URI Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Router Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Output Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Security Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Input Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:56 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:20:56 --> CSRF token verified
+DEBUG - 2013-07-11 23:20:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:20:56 --> Language Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:20:56 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:20:56 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Form Validation Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-07-11 23:20:56 --> Model Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Config Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:20:56 --> URI Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Router Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Output Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Security Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Input Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:20:56 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:20:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:20:56 --> Language Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:20:56 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:20:56 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> Model Class Initialized
+DEBUG - 2013-07-11 23:20:56 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:20:56 --> Final output sent to browser
+DEBUG - 2013-07-11 23:20:56 --> Total execution time: 0.0100
+DEBUG - 2013-07-11 23:21:01 --> Config Class Initialized
+DEBUG - 2013-07-11 23:21:01 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:21:01 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:21:01 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:21:01 --> URI Class Initialized
+DEBUG - 2013-07-11 23:21:01 --> Router Class Initialized
+DEBUG - 2013-07-11 23:21:01 --> Output Class Initialized
+DEBUG - 2013-07-11 23:21:01 --> Security Class Initialized
+DEBUG - 2013-07-11 23:21:01 --> Input Class Initialized
+DEBUG - 2013-07-11 23:21:01 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:01 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:01 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:01 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:01 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:21:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:21:01 --> Language Class Initialized
+DEBUG - 2013-07-11 23:21:01 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:21:01 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:21:01 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:21:01 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:21:01 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:21:01 --> Model Class Initialized
+DEBUG - 2013-07-11 23:21:01 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:21:01 --> Final output sent to browser
+DEBUG - 2013-07-11 23:21:01 --> Total execution time: 0.0169
+DEBUG - 2013-07-11 23:21:23 --> Config Class Initialized
+DEBUG - 2013-07-11 23:21:23 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:21:23 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:21:23 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:21:23 --> URI Class Initialized
+DEBUG - 2013-07-11 23:21:23 --> Router Class Initialized
+DEBUG - 2013-07-11 23:21:23 --> Output Class Initialized
+DEBUG - 2013-07-11 23:21:23 --> Security Class Initialized
+DEBUG - 2013-07-11 23:21:23 --> Input Class Initialized
+DEBUG - 2013-07-11 23:21:23 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:23 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:23 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:23 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:23 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:21:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:21:23 --> Language Class Initialized
+DEBUG - 2013-07-11 23:21:23 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:21:23 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:21:23 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:21:23 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:21:23 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:21:23 --> Model Class Initialized
+DEBUG - 2013-07-11 23:21:23 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:21:23 --> Final output sent to browser
+DEBUG - 2013-07-11 23:21:23 --> Total execution time: 0.3336
+DEBUG - 2013-07-11 23:21:39 --> Config Class Initialized
+DEBUG - 2013-07-11 23:21:39 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:21:39 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:21:39 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:21:39 --> URI Class Initialized
+DEBUG - 2013-07-11 23:21:39 --> Router Class Initialized
+DEBUG - 2013-07-11 23:21:39 --> Output Class Initialized
+DEBUG - 2013-07-11 23:21:39 --> Security Class Initialized
+DEBUG - 2013-07-11 23:21:39 --> Input Class Initialized
+DEBUG - 2013-07-11 23:21:39 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:39 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:39 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:39 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:39 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:21:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:21:39 --> Language Class Initialized
+DEBUG - 2013-07-11 23:21:39 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:21:39 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:21:39 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:21:39 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:21:39 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:21:39 --> Model Class Initialized
+DEBUG - 2013-07-11 23:21:39 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:21:39 --> Final output sent to browser
+DEBUG - 2013-07-11 23:21:39 --> Total execution time: 0.0115
+DEBUG - 2013-07-11 23:21:47 --> Config Class Initialized
+DEBUG - 2013-07-11 23:21:47 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:21:47 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:21:47 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:21:47 --> URI Class Initialized
+DEBUG - 2013-07-11 23:21:47 --> Router Class Initialized
+DEBUG - 2013-07-11 23:21:47 --> Output Class Initialized
+DEBUG - 2013-07-11 23:21:47 --> Security Class Initialized
+DEBUG - 2013-07-11 23:21:47 --> Input Class Initialized
+DEBUG - 2013-07-11 23:21:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:21:47 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:21:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:21:47 --> Language Class Initialized
+DEBUG - 2013-07-11 23:21:47 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:21:47 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:21:47 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:21:47 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:21:47 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:21:47 --> File loaded: application/views/login_view.php
+DEBUG - 2013-07-11 23:21:47 --> Final output sent to browser
+DEBUG - 2013-07-11 23:21:47 --> Total execution time: 0.0126
+DEBUG - 2013-07-11 23:22:46 --> Config Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:22:46 --> URI Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Router Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Output Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Security Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Input Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:46 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:22:46 --> CSRF token verified
+DEBUG - 2013-07-11 23:22:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:22:46 --> Language Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:22:46 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:22:46 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Form Validation Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-07-11 23:22:46 --> Model Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Config Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:22:46 --> URI Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Router Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Output Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Security Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Input Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:46 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:22:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:22:46 --> Language Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:22:46 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:22:46 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> Model Class Initialized
+DEBUG - 2013-07-11 23:22:46 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:22:46 --> Final output sent to browser
+DEBUG - 2013-07-11 23:22:46 --> Total execution time: 0.0101
+DEBUG - 2013-07-11 23:22:49 --> Config Class Initialized
+DEBUG - 2013-07-11 23:22:49 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:22:49 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:22:49 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:22:49 --> URI Class Initialized
+DEBUG - 2013-07-11 23:22:49 --> Router Class Initialized
+DEBUG - 2013-07-11 23:22:49 --> Output Class Initialized
+DEBUG - 2013-07-11 23:22:49 --> Security Class Initialized
+DEBUG - 2013-07-11 23:22:49 --> Input Class Initialized
+DEBUG - 2013-07-11 23:22:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:49 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:22:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:22:49 --> Language Class Initialized
+DEBUG - 2013-07-11 23:22:49 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:22:49 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:22:49 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:22:49 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:22:49 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:22:49 --> Model Class Initialized
+DEBUG - 2013-07-11 23:22:49 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:22:49 --> Final output sent to browser
+DEBUG - 2013-07-11 23:22:49 --> Total execution time: 0.0180
+DEBUG - 2013-07-11 23:22:53 --> Config Class Initialized
+DEBUG - 2013-07-11 23:22:53 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:22:53 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:22:53 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:22:53 --> URI Class Initialized
+DEBUG - 2013-07-11 23:22:53 --> Router Class Initialized
+DEBUG - 2013-07-11 23:22:53 --> Output Class Initialized
+DEBUG - 2013-07-11 23:22:53 --> Security Class Initialized
+DEBUG - 2013-07-11 23:22:53 --> Input Class Initialized
+DEBUG - 2013-07-11 23:22:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:53 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:22:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:22:53 --> Language Class Initialized
+DEBUG - 2013-07-11 23:22:53 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:22:53 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:22:53 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:22:53 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:22:53 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:22:53 --> Model Class Initialized
+ERROR - 2013-07-11 23:22:53 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php:57) /Applications/MAMP/htdocs/ciLogin/system/helpers/url_helper.php 542
+DEBUG - 2013-07-11 23:22:59 --> Config Class Initialized
+DEBUG - 2013-07-11 23:22:59 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:22:59 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:22:59 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:22:59 --> URI Class Initialized
+DEBUG - 2013-07-11 23:22:59 --> Router Class Initialized
+DEBUG - 2013-07-11 23:22:59 --> Output Class Initialized
+DEBUG - 2013-07-11 23:22:59 --> Security Class Initialized
+DEBUG - 2013-07-11 23:22:59 --> Input Class Initialized
+DEBUG - 2013-07-11 23:22:59 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:59 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:59 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:59 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:22:59 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:22:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:22:59 --> Language Class Initialized
+DEBUG - 2013-07-11 23:22:59 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:22:59 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:22:59 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:22:59 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:22:59 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:22:59 --> Model Class Initialized
+ERROR - 2013-07-11 23:22:59 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php:57) /Applications/MAMP/htdocs/ciLogin/system/helpers/url_helper.php 542
+DEBUG - 2013-07-11 23:23:02 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:02 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:02 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:02 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:02 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:02 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:02 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:02 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:02 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:02 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:02 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:02 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:02 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:02 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:02 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:02 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:02 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:02 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:02 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:02 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:02 --> Model Class Initialized
+DEBUG - 2013-07-11 23:23:02 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:23:02 --> Final output sent to browser
+DEBUG - 2013-07-11 23:23:02 --> Total execution time: 0.0172
+DEBUG - 2013-07-11 23:23:04 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:04 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:04 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:04 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:04 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:04 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:04 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:04 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:04 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:04 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:04 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:04 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:04 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:04 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:04 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:04 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:04 --> File loaded: application/views/login_view.php
+DEBUG - 2013-07-11 23:23:04 --> Final output sent to browser
+DEBUG - 2013-07-11 23:23:04 --> Total execution time: 0.0085
+DEBUG - 2013-07-11 23:23:10 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:10 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:10 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:10 --> CSRF token verified
+DEBUG - 2013-07-11 23:23:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:10 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:10 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:10 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Form Validation Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-07-11 23:23:10 --> Model Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:10 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:10 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:10 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:10 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:10 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> Model Class Initialized
+DEBUG - 2013-07-11 23:23:10 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:23:10 --> Final output sent to browser
+DEBUG - 2013-07-11 23:23:10 --> Total execution time: 0.0101
+DEBUG - 2013-07-11 23:23:12 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:12 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:12 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:12 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:12 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:12 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:12 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:12 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:12 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:12 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:12 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:12 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:12 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:12 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:12 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:12 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:12 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:12 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:12 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:12 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:12 --> Model Class Initialized
+DEBUG - 2013-07-11 23:23:12 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:23:12 --> Final output sent to browser
+DEBUG - 2013-07-11 23:23:12 --> Total execution time: 0.0112
+DEBUG - 2013-07-11 23:23:14 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:14 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:14 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:14 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:14 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:14 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:14 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:14 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:14 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:14 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:14 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:14 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:14 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:14 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:14 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:14 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:14 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:14 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:14 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:14 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:14 --> Model Class Initialized
+ERROR - 2013-07-11 23:23:14 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php:57) /Applications/MAMP/htdocs/ciLogin/system/helpers/url_helper.php 542
+DEBUG - 2013-07-11 23:23:25 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:25 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:25 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:25 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:25 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:25 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:25 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:25 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:25 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:25 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:25 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:25 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:25 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:25 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:25 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:25 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:25 --> Model Class Initialized
+ERROR - 2013-07-11 23:23:25 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/ciLogin/application/controllers/project.php:57) /Applications/MAMP/htdocs/ciLogin/system/helpers/url_helper.php 542
+DEBUG - 2013-07-11 23:23:38 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:38 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:38 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:38 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:38 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:38 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Model Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:38 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:38 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:38 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:38 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:38 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:38 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:38 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:38 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:38 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:38 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> Model Class Initialized
+DEBUG - 2013-07-11 23:23:38 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:23:38 --> Final output sent to browser
+DEBUG - 2013-07-11 23:23:38 --> Total execution time: 0.0102
+DEBUG - 2013-07-11 23:23:41 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:41 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:41 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:41 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:41 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:41 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:41 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:41 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:41 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:41 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:41 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:41 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:41 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:41 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:41 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:41 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:41 --> Model Class Initialized
+DEBUG - 2013-07-11 23:23:41 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:23:41 --> Final output sent to browser
+DEBUG - 2013-07-11 23:23:41 --> Total execution time: 0.0205
+DEBUG - 2013-07-11 23:23:43 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:43 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:43 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:43 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:43 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:43 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:43 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:43 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:43 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:43 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:44 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:44 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:44 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Model Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:44 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:44 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:44 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:44 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:44 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:44 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:44 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:44 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:44 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:44 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> Model Class Initialized
+DEBUG - 2013-07-11 23:23:44 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:23:44 --> Final output sent to browser
+DEBUG - 2013-07-11 23:23:44 --> Total execution time: 0.0109
+DEBUG - 2013-07-11 23:23:47 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:47 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:47 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:47 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:47 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:47 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:47 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:47 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:47 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:47 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:47 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:47 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:47 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:47 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:47 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:47 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:47 --> Model Class Initialized
+DEBUG - 2013-07-11 23:23:47 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:23:47 --> Final output sent to browser
+DEBUG - 2013-07-11 23:23:47 --> Total execution time: 0.0111
+DEBUG - 2013-07-11 23:23:49 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:49 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:49 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:49 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:49 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:49 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Model Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:49 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:49 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:49 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:49 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:49 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Config Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:23:49 --> URI Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Router Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Output Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Security Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Input Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:23:49 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:23:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:23:49 --> Language Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:23:49 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:23:49 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> Model Class Initialized
+DEBUG - 2013-07-11 23:23:49 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:23:49 --> Final output sent to browser
+DEBUG - 2013-07-11 23:23:49 --> Total execution time: 0.0104
+DEBUG - 2013-07-11 23:24:29 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:29 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:29 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:29 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:29 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:29 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:29 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:29 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:29 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:29 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:29 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:29 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:29 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:29 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:29 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:29 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:29 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:29 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:29 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:29 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:29 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:29 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:24:29 --> Final output sent to browser
+DEBUG - 2013-07-11 23:24:29 --> Total execution time: 0.0172
+DEBUG - 2013-07-11 23:24:36 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:36 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:36 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:36 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:36 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:36 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:36 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:36 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:36 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:36 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:36 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:36 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:36 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:36 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:36 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:36 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:36 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:36 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:24:36 --> Final output sent to browser
+DEBUG - 2013-07-11 23:24:36 --> Total execution time: 0.0152
+DEBUG - 2013-07-11 23:24:45 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:45 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:45 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:45 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:45 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:45 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:45 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:45 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:45 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:45 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:45 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:45 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:45 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:45 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:45 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:45 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:45 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:45 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:45 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:45 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:45 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:45 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:24:45 --> Final output sent to browser
+DEBUG - 2013-07-11 23:24:45 --> Total execution time: 0.0179
+DEBUG - 2013-07-11 23:24:48 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:48 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:48 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:48 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:48 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:48 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:48 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:48 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:48 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:48 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:48 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:48 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:48 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:48 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:48 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:48 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:48 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:48 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:48 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:48 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:48 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:48 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:24:48 --> Final output sent to browser
+DEBUG - 2013-07-11 23:24:48 --> Total execution time: 0.0225
+DEBUG - 2013-07-11 23:24:51 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:51 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:51 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:51 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:51 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:51 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:51 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:51 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:51 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:51 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:51 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:51 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:51 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:51 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:51 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:51 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:51 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:51 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:51 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:51 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:51 --> File loaded: application/views/login_view.php
+DEBUG - 2013-07-11 23:24:51 --> Final output sent to browser
+DEBUG - 2013-07-11 23:24:51 --> Total execution time: 0.0127
+DEBUG - 2013-07-11 23:24:53 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:53 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:53 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:53 --> CSRF token verified
+DEBUG - 2013-07-11 23:24:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:53 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:53 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:53 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Form Validation Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-07-11 23:24:53 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:53 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:53 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:53 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:53 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:53 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:53 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:24:53 --> Final output sent to browser
+DEBUG - 2013-07-11 23:24:53 --> Total execution time: 0.0104
+DEBUG - 2013-07-11 23:24:55 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:55 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:55 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:55 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:55 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:55 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:55 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:55 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:55 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:55 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:55 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:55 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:55 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:55 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:55 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:55 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:55 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:24:55 --> Final output sent to browser
+DEBUG - 2013-07-11 23:24:55 --> Total execution time: 0.0118
+DEBUG - 2013-07-11 23:24:56 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:56 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:56 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:56 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:56 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:56 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:56 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:56 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:56 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:56 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:56 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:56 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:56 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:56 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:56 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:56 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:56 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:56 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:24:56 --> Final output sent to browser
+DEBUG - 2013-07-11 23:24:56 --> Total execution time: 0.0104
+DEBUG - 2013-07-11 23:24:57 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:57 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:57 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:57 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:57 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:57 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:57 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:57 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:57 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:57 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:57 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:57 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:57 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:24:57 --> Final output sent to browser
+DEBUG - 2013-07-11 23:24:57 --> Total execution time: 0.0105
+DEBUG - 2013-07-11 23:24:57 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:57 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:57 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:57 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:57 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:57 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:57 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:57 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:57 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:57 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:57 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:57 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:57 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:57 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:57 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:24:57 --> Final output sent to browser
+DEBUG - 2013-07-11 23:24:57 --> Total execution time: 0.0114
+DEBUG - 2013-07-11 23:24:58 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:58 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:58 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:58 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:58 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:58 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:58 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:58 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:58 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:58 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:58 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Config Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:24:58 --> URI Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Router Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Output Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Security Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Input Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:58 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:24:58 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:24:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:24:58 --> Language Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:24:58 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:24:58 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> Model Class Initialized
+DEBUG - 2013-07-11 23:24:58 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:24:58 --> Final output sent to browser
+DEBUG - 2013-07-11 23:24:58 --> Total execution time: 0.0098
+DEBUG - 2013-07-11 23:28:26 --> Config Class Initialized
+DEBUG - 2013-07-11 23:28:26 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:28:26 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:28:26 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:28:26 --> URI Class Initialized
+DEBUG - 2013-07-11 23:28:26 --> Router Class Initialized
+DEBUG - 2013-07-11 23:28:26 --> Output Class Initialized
+DEBUG - 2013-07-11 23:28:26 --> Security Class Initialized
+DEBUG - 2013-07-11 23:28:26 --> Input Class Initialized
+DEBUG - 2013-07-11 23:28:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:26 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:28:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:28:26 --> Language Class Initialized
+DEBUG - 2013-07-11 23:28:26 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:28:26 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:28:26 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:28:26 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:28:26 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:28:26 --> Model Class Initialized
+DEBUG - 2013-07-11 23:28:26 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:28:26 --> Final output sent to browser
+DEBUG - 2013-07-11 23:28:26 --> Total execution time: 0.0132
+DEBUG - 2013-07-11 23:28:28 --> Config Class Initialized
+DEBUG - 2013-07-11 23:28:28 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:28:28 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:28:28 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:28:28 --> URI Class Initialized
+DEBUG - 2013-07-11 23:28:28 --> Router Class Initialized
+DEBUG - 2013-07-11 23:28:28 --> Output Class Initialized
+DEBUG - 2013-07-11 23:28:28 --> Security Class Initialized
+DEBUG - 2013-07-11 23:28:28 --> Input Class Initialized
+DEBUG - 2013-07-11 23:28:28 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:28 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:28 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:28 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:28 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:28:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:28:28 --> Language Class Initialized
+DEBUG - 2013-07-11 23:28:28 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:28:28 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:28:28 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:28:28 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:28:28 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:28:28 --> Model Class Initialized
+DEBUG - 2013-07-11 23:28:28 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:28:28 --> Final output sent to browser
+DEBUG - 2013-07-11 23:28:28 --> Total execution time: 0.0186
+DEBUG - 2013-07-11 23:28:30 --> Config Class Initialized
+DEBUG - 2013-07-11 23:28:30 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:28:30 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:28:30 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:28:30 --> URI Class Initialized
+DEBUG - 2013-07-11 23:28:30 --> Router Class Initialized
+DEBUG - 2013-07-11 23:28:30 --> Output Class Initialized
+DEBUG - 2013-07-11 23:28:30 --> Security Class Initialized
+DEBUG - 2013-07-11 23:28:30 --> Input Class Initialized
+DEBUG - 2013-07-11 23:28:30 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:30 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:30 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:30 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:30 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:28:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:28:30 --> Language Class Initialized
+DEBUG - 2013-07-11 23:28:30 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:28:30 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:28:30 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:28:30 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:28:30 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:28:30 --> Model Class Initialized
+DEBUG - 2013-07-11 23:28:30 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:28:30 --> Final output sent to browser
+DEBUG - 2013-07-11 23:28:30 --> Total execution time: 0.0227
+DEBUG - 2013-07-11 23:28:34 --> Config Class Initialized
+DEBUG - 2013-07-11 23:28:34 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:28:34 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:28:34 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:28:34 --> URI Class Initialized
+DEBUG - 2013-07-11 23:28:34 --> Router Class Initialized
+DEBUG - 2013-07-11 23:28:34 --> Output Class Initialized
+DEBUG - 2013-07-11 23:28:34 --> Security Class Initialized
+DEBUG - 2013-07-11 23:28:34 --> Input Class Initialized
+DEBUG - 2013-07-11 23:28:34 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:34 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:34 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:34 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:34 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:28:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:28:34 --> Language Class Initialized
+DEBUG - 2013-07-11 23:28:34 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:28:34 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:28:34 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:28:34 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:28:34 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:28:34 --> Model Class Initialized
+DEBUG - 2013-07-11 23:28:34 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:28:34 --> Final output sent to browser
+DEBUG - 2013-07-11 23:28:34 --> Total execution time: 0.0157
+DEBUG - 2013-07-11 23:28:36 --> Config Class Initialized
+DEBUG - 2013-07-11 23:28:36 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:28:36 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:28:36 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:28:36 --> URI Class Initialized
+DEBUG - 2013-07-11 23:28:36 --> Router Class Initialized
+DEBUG - 2013-07-11 23:28:36 --> Output Class Initialized
+DEBUG - 2013-07-11 23:28:36 --> Security Class Initialized
+DEBUG - 2013-07-11 23:28:36 --> Input Class Initialized
+DEBUG - 2013-07-11 23:28:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:36 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:28:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:28:36 --> Language Class Initialized
+DEBUG - 2013-07-11 23:28:36 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:28:36 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:28:36 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:28:36 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:28:36 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:28:36 --> Model Class Initialized
+DEBUG - 2013-07-11 23:28:36 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:28:36 --> Final output sent to browser
+DEBUG - 2013-07-11 23:28:36 --> Total execution time: 0.0109
+DEBUG - 2013-07-11 23:28:41 --> Config Class Initialized
+DEBUG - 2013-07-11 23:28:41 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:28:41 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:28:41 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:28:41 --> URI Class Initialized
+DEBUG - 2013-07-11 23:28:41 --> Router Class Initialized
+DEBUG - 2013-07-11 23:28:41 --> Output Class Initialized
+DEBUG - 2013-07-11 23:28:41 --> Security Class Initialized
+DEBUG - 2013-07-11 23:28:41 --> Input Class Initialized
+DEBUG - 2013-07-11 23:28:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:41 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:28:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:28:41 --> Language Class Initialized
+DEBUG - 2013-07-11 23:28:41 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:28:41 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:28:41 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:28:41 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:28:41 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:28:41 --> Form Validation Class Initialized
+DEBUG - 2013-07-11 23:28:41 --> File loaded: application/views/add_project_user_view.php
+DEBUG - 2013-07-11 23:28:41 --> Final output sent to browser
+DEBUG - 2013-07-11 23:28:41 --> Total execution time: 0.0239
+DEBUG - 2013-07-11 23:28:44 --> Config Class Initialized
+DEBUG - 2013-07-11 23:28:44 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:28:44 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:28:44 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:28:44 --> URI Class Initialized
+DEBUG - 2013-07-11 23:28:44 --> Router Class Initialized
+DEBUG - 2013-07-11 23:28:44 --> Output Class Initialized
+DEBUG - 2013-07-11 23:28:44 --> Security Class Initialized
+DEBUG - 2013-07-11 23:28:44 --> Input Class Initialized
+DEBUG - 2013-07-11 23:28:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:44 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:28:44 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:28:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:28:44 --> Language Class Initialized
+DEBUG - 2013-07-11 23:28:44 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:28:44 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:28:44 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:28:44 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:28:44 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:28:44 --> Model Class Initialized
+DEBUG - 2013-07-11 23:28:44 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:28:44 --> Final output sent to browser
+DEBUG - 2013-07-11 23:28:44 --> Total execution time: 0.0155
+DEBUG - 2013-07-11 23:31:19 --> Config Class Initialized
+DEBUG - 2013-07-11 23:31:19 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:31:19 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:31:19 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:31:19 --> URI Class Initialized
+DEBUG - 2013-07-11 23:31:19 --> Router Class Initialized
+DEBUG - 2013-07-11 23:31:19 --> Output Class Initialized
+DEBUG - 2013-07-11 23:31:19 --> Security Class Initialized
+DEBUG - 2013-07-11 23:31:19 --> Input Class Initialized
+DEBUG - 2013-07-11 23:31:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:31:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:31:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:31:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:31:19 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:31:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:31:19 --> Language Class Initialized
+DEBUG - 2013-07-11 23:31:19 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:31:19 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:31:19 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:31:19 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:31:19 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:31:19 --> Model Class Initialized
+DEBUG - 2013-07-11 23:31:19 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:31:19 --> Final output sent to browser
+DEBUG - 2013-07-11 23:31:19 --> Total execution time: 0.0171
+DEBUG - 2013-07-11 23:32:01 --> Config Class Initialized
+DEBUG - 2013-07-11 23:32:01 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:32:01 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:32:01 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:32:01 --> URI Class Initialized
+DEBUG - 2013-07-11 23:32:01 --> Router Class Initialized
+DEBUG - 2013-07-11 23:32:01 --> Output Class Initialized
+DEBUG - 2013-07-11 23:32:01 --> Security Class Initialized
+DEBUG - 2013-07-11 23:32:01 --> Input Class Initialized
+DEBUG - 2013-07-11 23:32:01 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:32:01 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:32:01 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:32:01 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:32:01 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:32:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:32:01 --> Language Class Initialized
+DEBUG - 2013-07-11 23:32:01 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:32:01 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:32:01 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:32:01 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:32:01 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:32:01 --> Model Class Initialized
+DEBUG - 2013-07-11 23:32:01 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:32:01 --> Final output sent to browser
+DEBUG - 2013-07-11 23:32:01 --> Total execution time: 0.0270
+DEBUG - 2013-07-11 23:33:11 --> Config Class Initialized
+DEBUG - 2013-07-11 23:33:11 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:33:11 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:33:11 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:33:11 --> URI Class Initialized
+DEBUG - 2013-07-11 23:33:11 --> Router Class Initialized
+DEBUG - 2013-07-11 23:33:11 --> Output Class Initialized
+DEBUG - 2013-07-11 23:33:11 --> Security Class Initialized
+DEBUG - 2013-07-11 23:33:11 --> Input Class Initialized
+DEBUG - 2013-07-11 23:33:11 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:11 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:11 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:11 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:11 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:33:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:33:11 --> Language Class Initialized
+DEBUG - 2013-07-11 23:33:11 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:33:11 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:33:11 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:33:11 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:33:11 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:33:11 --> Model Class Initialized
+DEBUG - 2013-07-11 23:33:11 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:33:11 --> Final output sent to browser
+DEBUG - 2013-07-11 23:33:11 --> Total execution time: 0.0163
+DEBUG - 2013-07-11 23:33:13 --> Config Class Initialized
+DEBUG - 2013-07-11 23:33:13 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:33:13 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:33:13 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:33:13 --> URI Class Initialized
+DEBUG - 2013-07-11 23:33:13 --> Router Class Initialized
+DEBUG - 2013-07-11 23:33:13 --> Output Class Initialized
+DEBUG - 2013-07-11 23:33:13 --> Security Class Initialized
+DEBUG - 2013-07-11 23:33:13 --> Input Class Initialized
+DEBUG - 2013-07-11 23:33:13 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:13 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:13 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:13 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:13 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:33:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:33:13 --> Language Class Initialized
+DEBUG - 2013-07-11 23:33:13 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:33:13 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:33:13 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:33:13 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:33:13 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:33:13 --> Model Class Initialized
+DEBUG - 2013-07-11 23:33:13 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:33:13 --> Final output sent to browser
+DEBUG - 2013-07-11 23:33:13 --> Total execution time: 0.0109
+DEBUG - 2013-07-11 23:33:15 --> Config Class Initialized
+DEBUG - 2013-07-11 23:33:15 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:33:15 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:33:15 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:33:15 --> URI Class Initialized
+DEBUG - 2013-07-11 23:33:15 --> Router Class Initialized
+DEBUG - 2013-07-11 23:33:15 --> Output Class Initialized
+DEBUG - 2013-07-11 23:33:15 --> Security Class Initialized
+DEBUG - 2013-07-11 23:33:15 --> Input Class Initialized
+DEBUG - 2013-07-11 23:33:15 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:15 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:15 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:15 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:15 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:33:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:33:15 --> Language Class Initialized
+DEBUG - 2013-07-11 23:33:15 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:33:15 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:33:15 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:33:15 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:33:15 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:33:15 --> Model Class Initialized
+DEBUG - 2013-07-11 23:33:15 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:33:15 --> Final output sent to browser
+DEBUG - 2013-07-11 23:33:15 --> Total execution time: 0.0113
+DEBUG - 2013-07-11 23:33:17 --> Config Class Initialized
+DEBUG - 2013-07-11 23:33:17 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:33:17 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:33:17 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:33:17 --> URI Class Initialized
+DEBUG - 2013-07-11 23:33:17 --> Router Class Initialized
+DEBUG - 2013-07-11 23:33:17 --> Output Class Initialized
+DEBUG - 2013-07-11 23:33:17 --> Security Class Initialized
+DEBUG - 2013-07-11 23:33:17 --> Input Class Initialized
+DEBUG - 2013-07-11 23:33:17 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:17 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:17 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:17 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:17 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:33:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:33:17 --> Language Class Initialized
+DEBUG - 2013-07-11 23:33:17 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:33:18 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:33:18 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:33:18 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:33:18 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:33:18 --> Form Validation Class Initialized
+DEBUG - 2013-07-11 23:33:18 --> File loaded: application/views/add_project_user_view.php
+DEBUG - 2013-07-11 23:33:18 --> Final output sent to browser
+DEBUG - 2013-07-11 23:33:18 --> Total execution time: 0.0092
+DEBUG - 2013-07-11 23:33:20 --> Config Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:33:20 --> URI Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Router Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Output Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Security Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Input Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:20 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:33:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:33:20 --> Language Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:33:20 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:33:20 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Config Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:33:20 --> URI Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Router Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Output Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Security Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Input Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:20 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:20 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:33:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:33:20 --> Language Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:33:20 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:33:20 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> Model Class Initialized
+DEBUG - 2013-07-11 23:33:20 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:33:20 --> Final output sent to browser
+DEBUG - 2013-07-11 23:33:20 --> Total execution time: 0.0102
+DEBUG - 2013-07-11 23:33:21 --> Config Class Initialized
+DEBUG - 2013-07-11 23:33:21 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:33:21 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:33:21 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:33:21 --> URI Class Initialized
+DEBUG - 2013-07-11 23:33:21 --> Router Class Initialized
+DEBUG - 2013-07-11 23:33:21 --> Output Class Initialized
+DEBUG - 2013-07-11 23:33:21 --> Security Class Initialized
+DEBUG - 2013-07-11 23:33:21 --> Input Class Initialized
+DEBUG - 2013-07-11 23:33:21 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:21 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:21 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:21 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:21 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:33:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:33:21 --> Language Class Initialized
+DEBUG - 2013-07-11 23:33:21 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:33:21 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:33:21 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:33:21 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:33:21 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:33:21 --> Form Validation Class Initialized
+DEBUG - 2013-07-11 23:33:21 --> File loaded: application/views/create_project_view.php
+DEBUG - 2013-07-11 23:33:21 --> Final output sent to browser
+DEBUG - 2013-07-11 23:33:21 --> Total execution time: 0.0085
+DEBUG - 2013-07-11 23:33:22 --> Config Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:33:22 --> URI Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Router Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Output Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Security Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Input Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:22 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:33:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:33:22 --> Language Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:33:22 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:33:22 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Config Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:33:22 --> URI Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Router Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Output Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Security Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Input Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:22 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:22 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:33:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:33:22 --> Language Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:33:22 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:33:22 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> Model Class Initialized
+DEBUG - 2013-07-11 23:33:22 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:33:22 --> Final output sent to browser
+DEBUG - 2013-07-11 23:33:22 --> Total execution time: 0.0107
+DEBUG - 2013-07-11 23:33:24 --> Config Class Initialized
+DEBUG - 2013-07-11 23:33:24 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:33:24 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:33:24 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:33:24 --> URI Class Initialized
+DEBUG - 2013-07-11 23:33:24 --> Router Class Initialized
+DEBUG - 2013-07-11 23:33:24 --> Output Class Initialized
+DEBUG - 2013-07-11 23:33:24 --> Security Class Initialized
+DEBUG - 2013-07-11 23:33:24 --> Input Class Initialized
+DEBUG - 2013-07-11 23:33:24 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:24 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:24 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:24 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:24 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:33:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:33:24 --> Language Class Initialized
+DEBUG - 2013-07-11 23:33:24 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:33:24 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:33:24 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:33:24 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:33:24 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:33:24 --> Form Validation Class Initialized
+DEBUG - 2013-07-11 23:33:24 --> File loaded: application/views/register_view.php
+DEBUG - 2013-07-11 23:33:24 --> Final output sent to browser
+DEBUG - 2013-07-11 23:33:24 --> Total execution time: 0.0086
+DEBUG - 2013-07-11 23:33:25 --> Config Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:33:25 --> URI Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Router Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Output Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Security Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Input Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:25 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:33:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:33:25 --> Language Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:33:25 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:33:25 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Config Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:33:25 --> URI Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Router Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Output Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Security Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Input Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:33:25 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:33:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:33:25 --> Language Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:33:25 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:33:25 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> Model Class Initialized
+DEBUG - 2013-07-11 23:33:25 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:33:25 --> Final output sent to browser
+DEBUG - 2013-07-11 23:33:25 --> Total execution time: 0.0101
+DEBUG - 2013-07-11 23:34:37 --> Config Class Initialized
+DEBUG - 2013-07-11 23:34:37 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:34:37 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:34:37 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:34:37 --> URI Class Initialized
+DEBUG - 2013-07-11 23:34:37 --> Router Class Initialized
+DEBUG - 2013-07-11 23:34:37 --> Output Class Initialized
+DEBUG - 2013-07-11 23:34:37 --> Security Class Initialized
+DEBUG - 2013-07-11 23:34:37 --> Input Class Initialized
+DEBUG - 2013-07-11 23:34:37 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:34:37 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:34:37 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:34:37 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:34:37 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:34:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:34:37 --> Language Class Initialized
+DEBUG - 2013-07-11 23:34:37 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:34:37 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:34:37 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:34:37 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:34:37 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:34:37 --> Model Class Initialized
+DEBUG - 2013-07-11 23:34:37 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:34:37 --> Final output sent to browser
+DEBUG - 2013-07-11 23:34:37 --> Total execution time: 0.0170
+DEBUG - 2013-07-11 23:34:39 --> Config Class Initialized
+DEBUG - 2013-07-11 23:34:39 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:34:39 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:34:39 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:34:39 --> URI Class Initialized
+DEBUG - 2013-07-11 23:34:39 --> Router Class Initialized
+DEBUG - 2013-07-11 23:34:39 --> Output Class Initialized
+DEBUG - 2013-07-11 23:34:39 --> Security Class Initialized
+DEBUG - 2013-07-11 23:34:39 --> Input Class Initialized
+DEBUG - 2013-07-11 23:34:39 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:34:39 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:34:39 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:34:39 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:34:39 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:34:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:34:39 --> Language Class Initialized
+DEBUG - 2013-07-11 23:34:39 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:34:39 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:34:39 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:34:39 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:34:39 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:34:39 --> Model Class Initialized
+DEBUG - 2013-07-11 23:34:39 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:34:39 --> Final output sent to browser
+DEBUG - 2013-07-11 23:34:39 --> Total execution time: 0.0240
+DEBUG - 2013-07-11 23:34:43 --> Config Class Initialized
+DEBUG - 2013-07-11 23:34:43 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:34:43 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:34:43 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:34:43 --> URI Class Initialized
+DEBUG - 2013-07-11 23:34:43 --> Router Class Initialized
+DEBUG - 2013-07-11 23:34:43 --> Output Class Initialized
+DEBUG - 2013-07-11 23:34:43 --> Security Class Initialized
+DEBUG - 2013-07-11 23:34:43 --> Input Class Initialized
+DEBUG - 2013-07-11 23:34:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:34:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:34:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:34:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:34:43 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:34:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:34:43 --> Language Class Initialized
+DEBUG - 2013-07-11 23:34:43 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:34:43 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:34:43 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:34:43 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:34:43 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:34:43 --> Form Validation Class Initialized
+DEBUG - 2013-07-11 23:34:43 --> File loaded: application/views/create_project_view.php
+DEBUG - 2013-07-11 23:34:43 --> Final output sent to browser
+DEBUG - 2013-07-11 23:34:43 --> Total execution time: 0.0085
+DEBUG - 2013-07-11 23:36:36 --> Config Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:36:36 --> URI Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Router Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Output Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Security Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Input Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:36 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:36:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:36:36 --> Language Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:36:36 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:36:36 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Config Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:36:36 --> URI Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Router Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Output Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Security Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Input Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:36 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:36:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:36:36 --> Language Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:36:36 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:36:36 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> Model Class Initialized
+DEBUG - 2013-07-11 23:36:36 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:36:36 --> Final output sent to browser
+DEBUG - 2013-07-11 23:36:36 --> Total execution time: 0.0106
+DEBUG - 2013-07-11 23:36:43 --> Config Class Initialized
+DEBUG - 2013-07-11 23:36:43 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:36:43 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:36:43 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:36:43 --> URI Class Initialized
+DEBUG - 2013-07-11 23:36:43 --> Router Class Initialized
+DEBUG - 2013-07-11 23:36:43 --> Output Class Initialized
+DEBUG - 2013-07-11 23:36:43 --> Security Class Initialized
+DEBUG - 2013-07-11 23:36:43 --> Input Class Initialized
+DEBUG - 2013-07-11 23:36:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:43 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:36:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:36:43 --> Language Class Initialized
+DEBUG - 2013-07-11 23:36:43 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:36:43 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:36:43 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:36:43 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:36:43 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:36:43 --> Model Class Initialized
+DEBUG - 2013-07-11 23:36:43 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:36:43 --> Final output sent to browser
+DEBUG - 2013-07-11 23:36:43 --> Total execution time: 0.0160
+DEBUG - 2013-07-11 23:36:47 --> Config Class Initialized
+DEBUG - 2013-07-11 23:36:47 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:36:47 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:36:47 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:36:47 --> URI Class Initialized
+DEBUG - 2013-07-11 23:36:47 --> Router Class Initialized
+DEBUG - 2013-07-11 23:36:47 --> Output Class Initialized
+DEBUG - 2013-07-11 23:36:47 --> Security Class Initialized
+DEBUG - 2013-07-11 23:36:47 --> Input Class Initialized
+DEBUG - 2013-07-11 23:36:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:36:47 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:36:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:36:47 --> Language Class Initialized
+DEBUG - 2013-07-11 23:36:47 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:36:47 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:36:47 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:36:47 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:36:47 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:36:47 --> Model Class Initialized
+DEBUG - 2013-07-11 23:36:47 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:36:47 --> Final output sent to browser
+DEBUG - 2013-07-11 23:36:47 --> Total execution time: 0.0161
+DEBUG - 2013-07-11 23:38:26 --> Config Class Initialized
+DEBUG - 2013-07-11 23:38:26 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:38:26 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:38:26 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:38:26 --> URI Class Initialized
+DEBUG - 2013-07-11 23:38:26 --> Router Class Initialized
+DEBUG - 2013-07-11 23:38:26 --> Output Class Initialized
+DEBUG - 2013-07-11 23:38:26 --> Security Class Initialized
+DEBUG - 2013-07-11 23:38:26 --> Input Class Initialized
+DEBUG - 2013-07-11 23:38:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:26 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:26 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:38:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:38:26 --> Language Class Initialized
+DEBUG - 2013-07-11 23:38:26 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:38:26 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:38:26 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:38:26 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:38:26 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:38:26 --> Model Class Initialized
+DEBUG - 2013-07-11 23:38:26 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:38:26 --> Final output sent to browser
+DEBUG - 2013-07-11 23:38:26 --> Total execution time: 0.0121
+DEBUG - 2013-07-11 23:38:29 --> Config Class Initialized
+DEBUG - 2013-07-11 23:38:29 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:38:29 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:38:29 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:38:29 --> URI Class Initialized
+DEBUG - 2013-07-11 23:38:29 --> Router Class Initialized
+DEBUG - 2013-07-11 23:38:29 --> Output Class Initialized
+DEBUG - 2013-07-11 23:38:29 --> Security Class Initialized
+DEBUG - 2013-07-11 23:38:29 --> Input Class Initialized
+DEBUG - 2013-07-11 23:38:29 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:29 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:29 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:29 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:29 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:38:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:38:29 --> Language Class Initialized
+DEBUG - 2013-07-11 23:38:29 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:38:29 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:38:29 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:38:29 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:38:29 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:38:29 --> Model Class Initialized
+DEBUG - 2013-07-11 23:38:29 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:38:29 --> Final output sent to browser
+DEBUG - 2013-07-11 23:38:29 --> Total execution time: 0.0172
+DEBUG - 2013-07-11 23:38:30 --> Config Class Initialized
+DEBUG - 2013-07-11 23:38:30 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:38:30 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:38:30 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:38:30 --> URI Class Initialized
+DEBUG - 2013-07-11 23:38:30 --> Router Class Initialized
+DEBUG - 2013-07-11 23:38:30 --> Output Class Initialized
+DEBUG - 2013-07-11 23:38:30 --> Security Class Initialized
+DEBUG - 2013-07-11 23:38:30 --> Input Class Initialized
+DEBUG - 2013-07-11 23:38:30 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:30 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:30 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:30 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:30 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:38:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:38:30 --> Language Class Initialized
+DEBUG - 2013-07-11 23:38:30 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:38:30 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:38:30 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:38:30 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:38:30 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:38:30 --> Model Class Initialized
+DEBUG - 2013-07-11 23:38:30 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:38:30 --> Final output sent to browser
+DEBUG - 2013-07-11 23:38:30 --> Total execution time: 0.0108
+DEBUG - 2013-07-11 23:38:37 --> Config Class Initialized
+DEBUG - 2013-07-11 23:38:37 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:38:37 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:38:37 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:38:37 --> URI Class Initialized
+DEBUG - 2013-07-11 23:38:37 --> Router Class Initialized
+DEBUG - 2013-07-11 23:38:37 --> Output Class Initialized
+DEBUG - 2013-07-11 23:38:37 --> Security Class Initialized
+DEBUG - 2013-07-11 23:38:37 --> Input Class Initialized
+DEBUG - 2013-07-11 23:38:37 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:37 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:37 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:37 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:38:37 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:38:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:38:37 --> Language Class Initialized
+DEBUG - 2013-07-11 23:38:37 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:38:37 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:38:37 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:38:37 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:38:37 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:38:37 --> Model Class Initialized
+DEBUG - 2013-07-11 23:38:37 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:38:37 --> Final output sent to browser
+DEBUG - 2013-07-11 23:38:37 --> Total execution time: 0.0274
+DEBUG - 2013-07-11 23:39:35 --> Config Class Initialized
+DEBUG - 2013-07-11 23:39:35 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:39:35 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:39:35 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:39:35 --> URI Class Initialized
+DEBUG - 2013-07-11 23:39:35 --> Router Class Initialized
+DEBUG - 2013-07-11 23:39:35 --> Output Class Initialized
+DEBUG - 2013-07-11 23:39:35 --> Security Class Initialized
+DEBUG - 2013-07-11 23:39:35 --> Input Class Initialized
+DEBUG - 2013-07-11 23:39:35 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:39:35 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:39:35 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:39:35 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:39:35 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:39:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:39:35 --> Language Class Initialized
+DEBUG - 2013-07-11 23:39:35 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:39:35 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:39:35 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:39:35 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:39:35 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:39:35 --> Model Class Initialized
+DEBUG - 2013-07-11 23:39:35 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:39:35 --> Final output sent to browser
+DEBUG - 2013-07-11 23:39:35 --> Total execution time: 0.0125
+DEBUG - 2013-07-11 23:40:33 --> Config Class Initialized
+DEBUG - 2013-07-11 23:40:33 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:40:33 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:40:33 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:40:33 --> URI Class Initialized
+DEBUG - 2013-07-11 23:40:33 --> Router Class Initialized
+DEBUG - 2013-07-11 23:40:33 --> Output Class Initialized
+DEBUG - 2013-07-11 23:40:33 --> Security Class Initialized
+DEBUG - 2013-07-11 23:40:33 --> Input Class Initialized
+DEBUG - 2013-07-11 23:40:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:40:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:40:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:40:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:40:33 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:40:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:40:33 --> Language Class Initialized
+DEBUG - 2013-07-11 23:40:33 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:40:33 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:40:33 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:40:33 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:40:33 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:40:33 --> Model Class Initialized
+DEBUG - 2013-07-11 23:40:33 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:40:33 --> Final output sent to browser
+DEBUG - 2013-07-11 23:40:33 --> Total execution time: 0.0142
+DEBUG - 2013-07-11 23:45:38 --> Config Class Initialized
+DEBUG - 2013-07-11 23:45:38 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:45:38 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:45:38 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:45:38 --> URI Class Initialized
+DEBUG - 2013-07-11 23:45:38 --> Router Class Initialized
+DEBUG - 2013-07-11 23:45:38 --> Output Class Initialized
+DEBUG - 2013-07-11 23:45:38 --> Security Class Initialized
+DEBUG - 2013-07-11 23:45:38 --> Input Class Initialized
+DEBUG - 2013-07-11 23:45:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:45:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:45:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:45:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:45:38 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:45:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:45:38 --> Language Class Initialized
+DEBUG - 2013-07-11 23:45:38 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:45:38 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:45:38 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:45:38 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:45:38 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:45:38 --> Model Class Initialized
+DEBUG - 2013-07-11 23:45:38 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:45:38 --> Final output sent to browser
+DEBUG - 2013-07-11 23:45:38 --> Total execution time: 0.0113
+DEBUG - 2013-07-11 23:45:41 --> Config Class Initialized
+DEBUG - 2013-07-11 23:45:41 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:45:41 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:45:41 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:45:41 --> URI Class Initialized
+DEBUG - 2013-07-11 23:45:41 --> Router Class Initialized
+DEBUG - 2013-07-11 23:45:41 --> Output Class Initialized
+DEBUG - 2013-07-11 23:45:41 --> Security Class Initialized
+DEBUG - 2013-07-11 23:45:41 --> Input Class Initialized
+DEBUG - 2013-07-11 23:45:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:45:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:45:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:45:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:45:41 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:45:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:45:41 --> Language Class Initialized
+DEBUG - 2013-07-11 23:45:41 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:45:41 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:45:41 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:45:41 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:45:41 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:45:41 --> Model Class Initialized
+DEBUG - 2013-07-11 23:45:41 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:45:41 --> Final output sent to browser
+DEBUG - 2013-07-11 23:45:41 --> Total execution time: 0.0153
+DEBUG - 2013-07-11 23:48:57 --> Config Class Initialized
+DEBUG - 2013-07-11 23:48:57 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:48:57 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:48:57 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:48:57 --> URI Class Initialized
+DEBUG - 2013-07-11 23:48:57 --> Router Class Initialized
+DEBUG - 2013-07-11 23:48:57 --> Output Class Initialized
+DEBUG - 2013-07-11 23:48:57 --> Security Class Initialized
+DEBUG - 2013-07-11 23:48:57 --> Input Class Initialized
+DEBUG - 2013-07-11 23:48:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:48:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:48:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:48:57 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:48:57 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:48:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:48:57 --> Language Class Initialized
+DEBUG - 2013-07-11 23:48:57 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:48:57 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:48:57 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:48:57 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:48:57 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:48:57 --> Model Class Initialized
+DEBUG - 2013-07-11 23:48:57 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:48:57 --> Final output sent to browser
+DEBUG - 2013-07-11 23:48:57 --> Total execution time: 0.0158
+DEBUG - 2013-07-11 23:49:16 --> Config Class Initialized
+DEBUG - 2013-07-11 23:49:16 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:49:16 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:49:16 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:49:16 --> URI Class Initialized
+DEBUG - 2013-07-11 23:49:16 --> Router Class Initialized
+DEBUG - 2013-07-11 23:49:16 --> Output Class Initialized
+DEBUG - 2013-07-11 23:49:16 --> Security Class Initialized
+DEBUG - 2013-07-11 23:49:16 --> Input Class Initialized
+DEBUG - 2013-07-11 23:49:16 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:16 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:16 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:16 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:16 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:49:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:49:16 --> Language Class Initialized
+DEBUG - 2013-07-11 23:49:16 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:49:16 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:49:16 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:49:16 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:49:16 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:49:16 --> Model Class Initialized
+DEBUG - 2013-07-11 23:49:16 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:49:16 --> Final output sent to browser
+DEBUG - 2013-07-11 23:49:16 --> Total execution time: 0.0157
+DEBUG - 2013-07-11 23:49:33 --> Config Class Initialized
+DEBUG - 2013-07-11 23:49:33 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:49:33 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:49:33 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:49:33 --> URI Class Initialized
+DEBUG - 2013-07-11 23:49:33 --> Router Class Initialized
+DEBUG - 2013-07-11 23:49:33 --> Output Class Initialized
+DEBUG - 2013-07-11 23:49:33 --> Security Class Initialized
+DEBUG - 2013-07-11 23:49:33 --> Input Class Initialized
+DEBUG - 2013-07-11 23:49:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:33 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:49:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:49:33 --> Language Class Initialized
+DEBUG - 2013-07-11 23:49:33 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:49:33 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:49:33 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:49:33 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:49:33 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:49:33 --> Model Class Initialized
+DEBUG - 2013-07-11 23:49:33 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:49:33 --> Final output sent to browser
+DEBUG - 2013-07-11 23:49:33 --> Total execution time: 0.0121
+DEBUG - 2013-07-11 23:49:36 --> Config Class Initialized
+DEBUG - 2013-07-11 23:49:36 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:49:36 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:49:36 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:49:36 --> URI Class Initialized
+DEBUG - 2013-07-11 23:49:36 --> Router Class Initialized
+DEBUG - 2013-07-11 23:49:36 --> Output Class Initialized
+DEBUG - 2013-07-11 23:49:36 --> Security Class Initialized
+DEBUG - 2013-07-11 23:49:36 --> Input Class Initialized
+DEBUG - 2013-07-11 23:49:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:36 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:36 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:49:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:49:36 --> Language Class Initialized
+DEBUG - 2013-07-11 23:49:36 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:49:36 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:49:36 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:49:36 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:49:36 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:49:36 --> Model Class Initialized
+DEBUG - 2013-07-11 23:49:36 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:49:36 --> Final output sent to browser
+DEBUG - 2013-07-11 23:49:36 --> Total execution time: 0.0224
+DEBUG - 2013-07-11 23:49:38 --> Config Class Initialized
+DEBUG - 2013-07-11 23:49:38 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:49:38 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:49:38 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:49:38 --> URI Class Initialized
+DEBUG - 2013-07-11 23:49:38 --> Router Class Initialized
+DEBUG - 2013-07-11 23:49:38 --> Output Class Initialized
+DEBUG - 2013-07-11 23:49:38 --> Security Class Initialized
+DEBUG - 2013-07-11 23:49:38 --> Input Class Initialized
+DEBUG - 2013-07-11 23:49:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:38 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:49:38 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:49:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:49:38 --> Language Class Initialized
+DEBUG - 2013-07-11 23:49:38 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:49:38 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:49:38 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:49:38 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:49:38 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:49:38 --> Model Class Initialized
+DEBUG - 2013-07-11 23:49:38 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:49:38 --> Final output sent to browser
+DEBUG - 2013-07-11 23:49:38 --> Total execution time: 0.0191
+DEBUG - 2013-07-11 23:56:29 --> Config Class Initialized
+DEBUG - 2013-07-11 23:56:29 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:56:29 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:56:29 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:56:29 --> URI Class Initialized
+DEBUG - 2013-07-11 23:56:29 --> Router Class Initialized
+DEBUG - 2013-07-11 23:56:29 --> Output Class Initialized
+DEBUG - 2013-07-11 23:56:29 --> Security Class Initialized
+DEBUG - 2013-07-11 23:56:29 --> Input Class Initialized
+DEBUG - 2013-07-11 23:56:29 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:29 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:29 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:29 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:29 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:56:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:56:29 --> Language Class Initialized
+DEBUG - 2013-07-11 23:56:29 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:56:29 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:56:29 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:56:29 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:56:29 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:56:29 --> Model Class Initialized
+DEBUG - 2013-07-11 23:56:29 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:56:29 --> Final output sent to browser
+DEBUG - 2013-07-11 23:56:29 --> Total execution time: 0.0153
+DEBUG - 2013-07-11 23:56:31 --> Config Class Initialized
+DEBUG - 2013-07-11 23:56:31 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:56:31 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:56:31 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:56:31 --> URI Class Initialized
+DEBUG - 2013-07-11 23:56:31 --> Router Class Initialized
+DEBUG - 2013-07-11 23:56:31 --> Output Class Initialized
+DEBUG - 2013-07-11 23:56:31 --> Security Class Initialized
+DEBUG - 2013-07-11 23:56:31 --> Input Class Initialized
+DEBUG - 2013-07-11 23:56:31 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:31 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:31 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:31 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:31 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:56:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:56:31 --> Language Class Initialized
+DEBUG - 2013-07-11 23:56:31 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:56:31 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:56:31 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:56:31 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:56:31 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:56:31 --> Model Class Initialized
+DEBUG - 2013-07-11 23:56:31 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:56:31 --> Final output sent to browser
+DEBUG - 2013-07-11 23:56:31 --> Total execution time: 0.0105
+DEBUG - 2013-07-11 23:56:33 --> Config Class Initialized
+DEBUG - 2013-07-11 23:56:33 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:56:33 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:56:33 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:56:33 --> URI Class Initialized
+DEBUG - 2013-07-11 23:56:33 --> Router Class Initialized
+DEBUG - 2013-07-11 23:56:33 --> Output Class Initialized
+DEBUG - 2013-07-11 23:56:33 --> Security Class Initialized
+DEBUG - 2013-07-11 23:56:33 --> Input Class Initialized
+DEBUG - 2013-07-11 23:56:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:33 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:33 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:56:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:56:33 --> Language Class Initialized
+DEBUG - 2013-07-11 23:56:33 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:56:33 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:56:33 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:56:33 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:56:33 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:56:33 --> Model Class Initialized
+DEBUG - 2013-07-11 23:56:33 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:56:33 --> Final output sent to browser
+DEBUG - 2013-07-11 23:56:33 --> Total execution time: 0.0105
+DEBUG - 2013-07-11 23:56:35 --> Config Class Initialized
+DEBUG - 2013-07-11 23:56:35 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:56:35 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:56:35 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:56:35 --> URI Class Initialized
+DEBUG - 2013-07-11 23:56:35 --> Router Class Initialized
+DEBUG - 2013-07-11 23:56:35 --> Output Class Initialized
+DEBUG - 2013-07-11 23:56:35 --> Security Class Initialized
+DEBUG - 2013-07-11 23:56:35 --> Input Class Initialized
+DEBUG - 2013-07-11 23:56:35 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:35 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:35 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:35 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:35 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:56:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:56:35 --> Language Class Initialized
+DEBUG - 2013-07-11 23:56:35 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:56:35 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:56:35 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:56:35 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:56:35 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:56:35 --> Model Class Initialized
+DEBUG - 2013-07-11 23:56:35 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:56:35 --> Final output sent to browser
+DEBUG - 2013-07-11 23:56:35 --> Total execution time: 0.0106
+DEBUG - 2013-07-11 23:56:37 --> Config Class Initialized
+DEBUG - 2013-07-11 23:56:37 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:56:37 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:56:37 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:56:37 --> URI Class Initialized
+DEBUG - 2013-07-11 23:56:37 --> Router Class Initialized
+DEBUG - 2013-07-11 23:56:37 --> Output Class Initialized
+DEBUG - 2013-07-11 23:56:37 --> Security Class Initialized
+DEBUG - 2013-07-11 23:56:37 --> Input Class Initialized
+DEBUG - 2013-07-11 23:56:37 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:37 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:37 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:37 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:56:37 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:56:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:56:37 --> Language Class Initialized
+DEBUG - 2013-07-11 23:56:37 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:56:37 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:56:37 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:56:37 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:56:37 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:56:37 --> Model Class Initialized
+DEBUG - 2013-07-11 23:56:37 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:56:37 --> Final output sent to browser
+DEBUG - 2013-07-11 23:56:37 --> Total execution time: 0.0121
+DEBUG - 2013-07-11 23:57:18 --> Config Class Initialized
+DEBUG - 2013-07-11 23:57:18 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:57:18 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:57:18 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:57:18 --> URI Class Initialized
+DEBUG - 2013-07-11 23:57:18 --> Router Class Initialized
+DEBUG - 2013-07-11 23:57:18 --> Output Class Initialized
+DEBUG - 2013-07-11 23:57:18 --> Security Class Initialized
+DEBUG - 2013-07-11 23:57:18 --> Input Class Initialized
+DEBUG - 2013-07-11 23:57:18 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:18 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:18 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:18 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:18 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:57:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:57:18 --> Language Class Initialized
+DEBUG - 2013-07-11 23:57:18 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:57:18 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:57:18 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:57:18 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:57:18 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:57:18 --> Model Class Initialized
+DEBUG - 2013-07-11 23:57:18 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 23:57:18 --> Final output sent to browser
+DEBUG - 2013-07-11 23:57:18 --> Total execution time: 0.0149
+DEBUG - 2013-07-11 23:57:19 --> Config Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:57:19 --> URI Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Router Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Output Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Security Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Input Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:57:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:57:19 --> Language Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:57:19 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:57:19 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Model Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:57:19 --> Final output sent to browser
+DEBUG - 2013-07-11 23:57:19 --> Total execution time: 0.0111
+DEBUG - 2013-07-11 23:57:19 --> Config Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Config Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Config Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:57:19 --> Config Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:57:19 --> Hooks Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:57:19 --> URI Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> URI Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> URI Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Router Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 23:57:19 --> Router Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Router Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> URI Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Output Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Router Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Output Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Security Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Output Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Input Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Security Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Security Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Output Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Input Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Input Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Security Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> Input Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:57:19 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:57:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:57:19 --> Language Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:57:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 23:57:19 --> Language Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Language Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> CRSF cookie Set
+DEBUG - 2013-07-11 23:57:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 23:57:19 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:57:19 --> Language Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:57:19 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Model Class Initialized
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 36
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 37
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 38
+DEBUG - 2013-07-11 23:57:19 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:57:19 --> Final output sent to browser
+DEBUG - 2013-07-11 23:57:19 --> Total execution time: 0.0148
+DEBUG - 2013-07-11 23:57:19 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:57:19 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:57:19 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Model Class Initialized
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 36
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 37
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 38
+DEBUG - 2013-07-11 23:57:19 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:57:19 --> Final output sent to browser
+DEBUG - 2013-07-11 23:57:19 --> Total execution time: 0.0228
+DEBUG - 2013-07-11 23:57:19 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:57:19 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:57:19 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Model Class Initialized
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 36
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 37
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 38
+DEBUG - 2013-07-11 23:57:19 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:57:19 --> Final output sent to browser
+DEBUG - 2013-07-11 23:57:19 --> Total execution time: 0.0304
+DEBUG - 2013-07-11 23:57:19 --> Loader Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 23:57:19 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 23:57:19 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Controller Class Initialized
+DEBUG - 2013-07-11 23:57:19 --> Model Class Initialized
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 33
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 36
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 37
+ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/ciLogin/application/views/project_view.php 38
+DEBUG - 2013-07-11 23:57:19 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 23:57:19 --> Final output sent to browser
+DEBUG - 2013-07-11 23:57:19 --> Total execution time: 0.0372
