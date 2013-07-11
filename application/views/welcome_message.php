@@ -21,7 +21,7 @@
 		color: #003399;
 		background-color: transparent;
 		font-weight: normal;
-		padding-left: 15px;
+		margin-left: 15px;
 	}
 
 	h1 {
@@ -75,6 +75,7 @@
 		<?php if($is_admin == 1): ?>
 			 <a href="<?= site_url('/register'); ?>"> Create Account</a>  
 			 <a href="<?= site_url('/create_project'); ?>"> Create Project</a>  
+			 <a href="<?= site_url('/add_project_user'); ?>"> Add Project User</a>  
 
 		<?php endif; ?>
 		
@@ -83,27 +84,48 @@
 
 	</div>
 <h1> kickass Members only page</h1>
-<?php if($is_admin == 1): ?>		
-	<h2> Member List </h2>
 
-	<?php 
+<?php if($userProjectRow!=null): ?>		
 
-		foreach( $userrow as $r){
-			echo "<h4> " . $r->email_address . "</h4>";
-		}
-	?>
+	<h2>My Projects</h2>
+
+		<?php 
+
+			foreach( $userProjectRow as $r){
+				$url = site_url('/project\/') . $r->project_id;
+		echo "<a href=" . $url . ">" . $r->project_name . "</a> " ;
+				// echo "<h4> " . $r->project_name . "</h4>";
+			}
+		?>
 <?php endif; ?>
 
 
 
 
-<h2> Project List </h2>
+<?php if($is_admin == 1): ?>
 
-<?php 
-	foreach( $projectrow as $pr){
-		echo "<h4> " . $pr->project_name . "</h4>";
-	}
-?>
+	<h2> Member List </h2>
+
+	<?php 
+		foreach( $userrow as $r){
+			echo "<h4> " . $r->email_address . "</h4>";
+		}
+	?>
+
+
+	<h2> Project List </h2>
+
+	<?php 
+		foreach( $projectrow as $pr){
+			// print_r($pr);
+			// $url = site_url('/project/') . $pr->project_id;
+			// echo "<a href=" . $url . ">" . $pr->project_name . "</a> " ;
+			$url = site_url('/project\/') . $pr->id;
+			echo "<a href=" . $url . ">" . $pr->project_name . "</a> " ;
+			// echo "<h4> " . $pr->project_name . "</h4>";
+		}
+	?>
+<?php endif; ?>
 
 </body>
 </html>

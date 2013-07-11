@@ -1,14 +1,14 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Welcome extends CI_Controller {
+class Project extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
 	 *
 	 * Maps to the following URL
-	 * 		http://example.com/index.php/welcome
+	 * 		http://example.com/index.php/register
 	 *	- or -  
-	 * 		http://example.com/index.php/welcome/index
+	 * 		http://example.com/index.php/register/index
 	 *	- or -
 	 * Since this controller is set as the default controller in 
 	 * config/routes.php, it's displayed at http://example.com/
@@ -23,6 +23,7 @@ class Welcome extends CI_Controller {
 		session_start();
 		parent::__construct();
 
+
 		//if not logged in, deny access (reroute )
 		if(!isset($_SESSION['username']))
 		{
@@ -30,10 +31,28 @@ class Welcome extends CI_Controller {
 		}
 	}
 
-	public function index()
+	public function index($project_id)
 	{
-
+		
 		$this->load->model('admin_model');
+
+		$data = $this->admin_model->get_project($project_id);
+
+			
+
+		$this->load->view('project_view',$data);
+
+
+
+		
+
+	}
+	public function id($project_id)
+	{
+		
+		$this->load->model('admin_model');
+
+		$data['project_info'] = $this->admin_model->get_project($project_id);
 
 		$data['userrow'] = $this->admin_model->get_users();
 		$data['projectrow'] = $this->admin_model->get_projects();
@@ -41,21 +60,16 @@ class Welcome extends CI_Controller {
 		$data['current_user'] = $_SESSION['username'];
 
 		$data['userProjectRow'] = $this->admin_model->get_user_projects($_SESSION['username']);
+			
 
-		$this->load->view('welcome_message', $data);
-	}
-	public function user($param1)
-	{
-		echo "asfe2" . $param1;
-		die();
-	}
+		$this->load->view('project_view',$data);
 
-	// public function index($param1)
-	// {
-	// 	echo($user_id);
-	// 	die();
-	// }
+
+
+		
+
+	}
 }
 
-/* End of file welcome.php */
-/* Location: ./application/controllers/welcome.php */
+/* End of file project.php */
+/* Location: ./application/controllers/project.php */
