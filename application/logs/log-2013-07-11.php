@@ -20021,3 +20021,962 @@ ERROR - 2013-07-11 23:57:19 --> Severity: Notice  --> Trying to get property of 
 DEBUG - 2013-07-11 23:57:19 --> File loaded: application/views/project_view.php
 DEBUG - 2013-07-11 23:57:19 --> Final output sent to browser
 DEBUG - 2013-07-11 23:57:19 --> Total execution time: 0.0372
+DEBUG - 2013-07-11 22:22:16 --> Config Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:22:16 --> URI Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Router Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> No URI present. Default controller set.
+DEBUG - 2013-07-11 22:22:16 --> Output Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Security Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Input Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:22:16 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:22:16 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:22:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:22:16 --> Language Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:22:16 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:22:16 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Config Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:22:16 --> URI Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Router Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Output Class Initialized
+DEBUG - 2013-07-11 22:22:16 --> Security Class Initialized
+DEBUG - 2013-07-11 22:22:17 --> Input Class Initialized
+DEBUG - 2013-07-11 22:22:17 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:22:17 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:22:17 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:22:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:22:17 --> Language Class Initialized
+DEBUG - 2013-07-11 22:22:17 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:22:17 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:22:17 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:22:17 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:22:17 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:22:17 --> Model Class Initialized
+DEBUG - 2013-07-11 22:22:17 --> DB Transaction Failure
+ERROR - 2013-07-11 22:22:17 --> Query error: Table 'ci.projects' doesn't exist
+DEBUG - 2013-07-11 22:22:17 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-07-11 22:23:39 --> Config Class Initialized
+DEBUG - 2013-07-11 22:23:39 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:23:39 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:23:40 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:23:40 --> URI Class Initialized
+DEBUG - 2013-07-11 22:23:40 --> Router Class Initialized
+DEBUG - 2013-07-11 22:23:40 --> Output Class Initialized
+DEBUG - 2013-07-11 22:23:40 --> Security Class Initialized
+DEBUG - 2013-07-11 22:23:40 --> Input Class Initialized
+DEBUG - 2013-07-11 22:23:40 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:40 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:40 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:23:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:23:40 --> Language Class Initialized
+DEBUG - 2013-07-11 22:23:40 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:23:40 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:23:40 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:23:40 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:23:40 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:23:40 --> Model Class Initialized
+DEBUG - 2013-07-11 22:23:40 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 22:23:40 --> Final output sent to browser
+DEBUG - 2013-07-11 22:23:40 --> Total execution time: 0.4507
+DEBUG - 2013-07-11 22:23:46 --> Config Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:23:46 --> URI Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Router Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Output Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Security Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Input Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:46 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:23:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:23:46 --> Language Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:23:46 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:23:46 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Model Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:23:46 --> Final output sent to browser
+DEBUG - 2013-07-11 22:23:46 --> Total execution time: 0.4286
+DEBUG - 2013-07-11 22:23:46 --> Config Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Config Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Config Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Config Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:23:46 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:23:46 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:23:46 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:23:47 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:23:47 --> URI Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> URI Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> URI Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Router Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Router Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> URI Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Router Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Output Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Output Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Router Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Output Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Security Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Output Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Input Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Security Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:47 --> Security Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Security Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:47 --> Input Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Input Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Input Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:23:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:23:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:47 --> Language Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:47 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:23:47 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:23:47 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:23:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:23:47 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:23:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:23:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:23:47 --> Language Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:23:47 --> Language Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Language Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Model Class Initialized
+ERROR - 2013-07-11 22:23:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:23:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:23:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:23:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:23:47 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:23:47 --> Final output sent to browser
+DEBUG - 2013-07-11 22:23:47 --> Total execution time: 0.7611
+DEBUG - 2013-07-11 22:23:47 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:23:47 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:23:47 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Model Class Initialized
+ERROR - 2013-07-11 22:23:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:23:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:23:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:23:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:23:47 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:23:47 --> Final output sent to browser
+DEBUG - 2013-07-11 22:23:47 --> Total execution time: 1.0304
+DEBUG - 2013-07-11 22:23:47 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:23:47 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:23:48 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:23:48 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:23:48 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:23:48 --> Model Class Initialized
+ERROR - 2013-07-11 22:23:48 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:23:48 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:23:48 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:23:48 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:23:48 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:23:48 --> Final output sent to browser
+DEBUG - 2013-07-11 22:23:48 --> Total execution time: 1.3004
+DEBUG - 2013-07-11 22:23:48 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:23:48 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:23:48 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:23:48 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:23:48 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:23:48 --> Model Class Initialized
+ERROR - 2013-07-11 22:23:48 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:23:48 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:23:48 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:23:48 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:23:48 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:23:48 --> Final output sent to browser
+DEBUG - 2013-07-11 22:23:48 --> Total execution time: 1.5685
+DEBUG - 2013-07-11 22:23:51 --> Config Class Initialized
+DEBUG - 2013-07-11 22:23:51 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:23:51 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:23:51 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:23:51 --> URI Class Initialized
+DEBUG - 2013-07-11 22:23:51 --> Router Class Initialized
+DEBUG - 2013-07-11 22:23:51 --> Output Class Initialized
+DEBUG - 2013-07-11 22:23:51 --> Security Class Initialized
+DEBUG - 2013-07-11 22:23:51 --> Input Class Initialized
+DEBUG - 2013-07-11 22:23:51 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:51 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:51 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:23:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:23:51 --> Language Class Initialized
+DEBUG - 2013-07-11 22:23:51 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:23:51 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:23:51 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:23:51 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:23:51 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:23:51 --> Model Class Initialized
+ERROR - 2013-07-11 22:23:51 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:23:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:23:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:23:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:23:52 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:23:52 --> Final output sent to browser
+DEBUG - 2013-07-11 22:23:52 --> Total execution time: 0.5121
+DEBUG - 2013-07-11 22:23:52 --> Config Class Initialized
+DEBUG - 2013-07-11 22:23:52 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:23:52 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:23:52 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:23:52 --> URI Class Initialized
+DEBUG - 2013-07-11 22:23:52 --> Router Class Initialized
+DEBUG - 2013-07-11 22:23:52 --> Output Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Security Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Input Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:53 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:23:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:23:53 --> Language Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:23:53 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:23:53 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Model Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:23:53 --> Final output sent to browser
+DEBUG - 2013-07-11 22:23:53 --> Total execution time: 0.4506
+DEBUG - 2013-07-11 22:23:53 --> Config Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Config Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Config Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Config Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:23:53 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:23:53 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> URI Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:23:53 --> URI Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:23:53 --> URI Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Router Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Router Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> URI Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Output Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Router Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Router Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Output Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Security Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Output Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Security Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Security Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Output Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Input Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Input Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Input Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:53 --> Security Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:53 --> Input Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:23:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:23:53 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:23:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:23:53 --> Language Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:23:53 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:23:53 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Language Class Initialized
+DEBUG - 2013-07-11 22:23:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:23:53 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:23:53 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:23:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:23:53 --> Language Class Initialized
+DEBUG - 2013-07-11 22:23:54 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:23:54 --> Language Class Initialized
+DEBUG - 2013-07-11 22:23:54 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:23:54 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:23:54 --> Model Class Initialized
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:23:54 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:23:54 --> Final output sent to browser
+DEBUG - 2013-07-11 22:23:54 --> Total execution time: 0.8338
+DEBUG - 2013-07-11 22:23:54 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:23:54 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:23:54 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:23:54 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:23:54 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:23:54 --> Model Class Initialized
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:23:54 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:23:54 --> Final output sent to browser
+DEBUG - 2013-07-11 22:23:54 --> Total execution time: 1.1057
+DEBUG - 2013-07-11 22:23:54 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:23:54 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:23:54 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:23:54 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:23:54 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:23:54 --> Model Class Initialized
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:23:54 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:23:54 --> Final output sent to browser
+DEBUG - 2013-07-11 22:23:54 --> Total execution time: 1.3814
+DEBUG - 2013-07-11 22:23:54 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:23:54 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:23:54 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:23:54 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:23:54 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:23:54 --> Model Class Initialized
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:23:54 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:23:55 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:23:55 --> Final output sent to browser
+DEBUG - 2013-07-11 22:23:55 --> Total execution time: 1.6401
+DEBUG - 2013-07-11 22:25:25 --> Config Class Initialized
+DEBUG - 2013-07-11 22:25:25 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:25:25 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:25:25 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:25:25 --> URI Class Initialized
+DEBUG - 2013-07-11 22:25:25 --> Router Class Initialized
+DEBUG - 2013-07-11 22:25:25 --> Output Class Initialized
+DEBUG - 2013-07-11 22:25:25 --> Security Class Initialized
+DEBUG - 2013-07-11 22:25:25 --> Input Class Initialized
+DEBUG - 2013-07-11 22:25:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:25:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:25:25 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:25:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:25:25 --> Language Class Initialized
+DEBUG - 2013-07-11 22:25:25 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:25:25 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:25:25 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:25:25 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:25:25 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:25:25 --> Model Class Initialized
+DEBUG - 2013-07-11 22:25:25 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 22:25:25 --> Final output sent to browser
+DEBUG - 2013-07-11 22:25:25 --> Total execution time: 0.4587
+DEBUG - 2013-07-11 22:25:55 --> Config Class Initialized
+DEBUG - 2013-07-11 22:25:55 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:25:55 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:25:55 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:25:55 --> URI Class Initialized
+DEBUG - 2013-07-11 22:25:55 --> Router Class Initialized
+DEBUG - 2013-07-11 22:25:55 --> Output Class Initialized
+DEBUG - 2013-07-11 22:25:55 --> Security Class Initialized
+DEBUG - 2013-07-11 22:25:55 --> Input Class Initialized
+DEBUG - 2013-07-11 22:25:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:25:55 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:25:55 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:25:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:25:55 --> Language Class Initialized
+DEBUG - 2013-07-11 22:25:55 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:25:55 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:25:55 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:25:55 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:25:55 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:25:55 --> Model Class Initialized
+DEBUG - 2013-07-11 22:25:55 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 22:25:55 --> Final output sent to browser
+DEBUG - 2013-07-11 22:25:55 --> Total execution time: 0.4410
+DEBUG - 2013-07-11 22:26:01 --> Config Class Initialized
+DEBUG - 2013-07-11 22:26:01 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:26:01 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:26:01 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:26:01 --> URI Class Initialized
+DEBUG - 2013-07-11 22:26:01 --> Router Class Initialized
+DEBUG - 2013-07-11 22:26:01 --> Output Class Initialized
+DEBUG - 2013-07-11 22:26:01 --> Security Class Initialized
+DEBUG - 2013-07-11 22:26:01 --> Input Class Initialized
+DEBUG - 2013-07-11 22:26:01 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:02 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:02 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:26:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:26:02 --> Language Class Initialized
+DEBUG - 2013-07-11 22:26:02 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:26:02 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:26:02 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:26:02 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:26:02 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:26:02 --> Model Class Initialized
+DEBUG - 2013-07-11 22:26:02 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 22:26:02 --> Final output sent to browser
+DEBUG - 2013-07-11 22:26:02 --> Total execution time: 0.4467
+DEBUG - 2013-07-11 22:26:04 --> Config Class Initialized
+DEBUG - 2013-07-11 22:26:04 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:26:04 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:26:04 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:26:04 --> URI Class Initialized
+DEBUG - 2013-07-11 22:26:04 --> Router Class Initialized
+DEBUG - 2013-07-11 22:26:04 --> Output Class Initialized
+DEBUG - 2013-07-11 22:26:04 --> Security Class Initialized
+DEBUG - 2013-07-11 22:26:04 --> Input Class Initialized
+DEBUG - 2013-07-11 22:26:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:04 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:26:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:26:04 --> Language Class Initialized
+DEBUG - 2013-07-11 22:26:04 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:26:04 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:26:04 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:26:04 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:26:04 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:26:04 --> Model Class Initialized
+DEBUG - 2013-07-11 22:26:04 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 22:26:04 --> Final output sent to browser
+DEBUG - 2013-07-11 22:26:04 --> Total execution time: 0.4396
+DEBUG - 2013-07-11 22:26:41 --> Config Class Initialized
+DEBUG - 2013-07-11 22:26:41 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:26:41 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:26:41 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:26:41 --> URI Class Initialized
+DEBUG - 2013-07-11 22:26:41 --> Router Class Initialized
+DEBUG - 2013-07-11 22:26:41 --> Output Class Initialized
+DEBUG - 2013-07-11 22:26:41 --> Security Class Initialized
+DEBUG - 2013-07-11 22:26:41 --> Input Class Initialized
+DEBUG - 2013-07-11 22:26:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:41 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:41 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:26:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:26:41 --> Language Class Initialized
+DEBUG - 2013-07-11 22:26:41 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:26:41 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:26:41 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:26:41 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:26:41 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:26:41 --> Model Class Initialized
+DEBUG - 2013-07-11 22:26:41 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:26:41 --> Final output sent to browser
+DEBUG - 2013-07-11 22:26:41 --> Total execution time: 0.4372
+DEBUG - 2013-07-11 22:26:45 --> Config Class Initialized
+DEBUG - 2013-07-11 22:26:45 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:26:45 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:26:45 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:26:45 --> URI Class Initialized
+DEBUG - 2013-07-11 22:26:45 --> Router Class Initialized
+DEBUG - 2013-07-11 22:26:45 --> Output Class Initialized
+DEBUG - 2013-07-11 22:26:45 --> Security Class Initialized
+DEBUG - 2013-07-11 22:26:45 --> Input Class Initialized
+DEBUG - 2013-07-11 22:26:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:46 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:46 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:26:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:26:46 --> Language Class Initialized
+DEBUG - 2013-07-11 22:26:46 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:26:46 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:26:46 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:26:46 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:26:46 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:26:46 --> Model Class Initialized
+DEBUG - 2013-07-11 22:26:46 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 22:26:46 --> Final output sent to browser
+DEBUG - 2013-07-11 22:26:46 --> Total execution time: 0.4434
+DEBUG - 2013-07-11 22:26:48 --> Config Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:26:48 --> URI Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Router Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Output Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Security Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Input Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:48 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:48 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:26:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:26:48 --> Language Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:26:48 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:26:48 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Model Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:26:48 --> Final output sent to browser
+DEBUG - 2013-07-11 22:26:48 --> Total execution time: 0.4415
+DEBUG - 2013-07-11 22:26:48 --> Config Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Config Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Config Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Config Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:26:48 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:26:48 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:26:48 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:26:48 --> URI Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> URI Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> URI Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> URI Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Router Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Router Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Router Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Router Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Output Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Output Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Security Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Security Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Output Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Output Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Input Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Security Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Security Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> Input Class Initialized
+DEBUG - 2013-07-11 22:26:48 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:48 --> Input Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> Input Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:49 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:26:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:26:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:49 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:49 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:26:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:26:49 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:26:49 --> Language Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:26:49 --> Language Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:26:49 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> Language Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:26:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:26:49 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:26:49 --> Language Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> Model Class Initialized
+ERROR - 2013-07-11 22:26:49 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:26:49 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:26:49 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:26:49 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:26:49 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:26:49 --> Final output sent to browser
+DEBUG - 2013-07-11 22:26:49 --> Total execution time: 0.8704
+DEBUG - 2013-07-11 22:26:49 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:26:49 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:26:49 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> Model Class Initialized
+ERROR - 2013-07-11 22:26:49 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:26:49 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:26:49 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:26:49 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:26:49 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:26:49 --> Final output sent to browser
+DEBUG - 2013-07-11 22:26:49 --> Total execution time: 1.1498
+DEBUG - 2013-07-11 22:26:49 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:26:49 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:26:49 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:26:49 --> Model Class Initialized
+ERROR - 2013-07-11 22:26:49 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:26:49 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:26:49 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:26:49 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:26:49 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:26:50 --> Final output sent to browser
+DEBUG - 2013-07-11 22:26:50 --> Total execution time: 1.4198
+DEBUG - 2013-07-11 22:26:50 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:26:50 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:26:50 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> Model Class Initialized
+ERROR - 2013-07-11 22:26:50 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:26:50 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:26:50 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:26:50 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:26:50 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:26:50 --> Final output sent to browser
+DEBUG - 2013-07-11 22:26:50 --> Total execution time: 1.6884
+DEBUG - 2013-07-11 22:26:50 --> Config Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:26:50 --> URI Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> Router Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> Output Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> Security Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> Input Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:50 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:26:50 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:26:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:26:50 --> Language Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:26:50 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:26:50 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> Model Class Initialized
+DEBUG - 2013-07-11 22:26:50 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 22:26:50 --> Final output sent to browser
+DEBUG - 2013-07-11 22:26:50 --> Total execution time: 0.4387
+DEBUG - 2013-07-11 22:27:09 --> Config Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:27:10 --> URI Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Router Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> No URI present. Default controller set.
+DEBUG - 2013-07-11 22:27:10 --> Output Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Security Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Input Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:27:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:27:10 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:27:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:27:10 --> Language Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:27:10 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:27:10 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Config Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:27:10 --> URI Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Router Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Output Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Security Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Input Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:27:10 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:27:10 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:27:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:27:10 --> Language Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:27:10 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:27:10 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> Model Class Initialized
+DEBUG - 2013-07-11 22:27:10 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 22:27:10 --> Final output sent to browser
+DEBUG - 2013-07-11 22:27:10 --> Total execution time: 0.4483
+DEBUG - 2013-07-11 22:30:16 --> Config Class Initialized
+DEBUG - 2013-07-11 22:30:16 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:30:16 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:30:16 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:30:16 --> URI Class Initialized
+DEBUG - 2013-07-11 22:30:16 --> Router Class Initialized
+DEBUG - 2013-07-11 22:30:16 --> Output Class Initialized
+DEBUG - 2013-07-11 22:30:16 --> Security Class Initialized
+DEBUG - 2013-07-11 22:30:16 --> Input Class Initialized
+DEBUG - 2013-07-11 22:30:16 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:30:16 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:30:16 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:30:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:30:17 --> Language Class Initialized
+DEBUG - 2013-07-11 22:30:17 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:30:17 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:30:17 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:30:17 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:30:17 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:30:17 --> Model Class Initialized
+DEBUG - 2013-07-11 22:30:17 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 22:30:17 --> Final output sent to browser
+DEBUG - 2013-07-11 22:30:17 --> Total execution time: 0.4498
+DEBUG - 2013-07-11 22:30:19 --> Config Class Initialized
+DEBUG - 2013-07-11 22:30:19 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:30:19 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:30:19 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:30:19 --> URI Class Initialized
+DEBUG - 2013-07-11 22:30:19 --> Router Class Initialized
+DEBUG - 2013-07-11 22:30:19 --> Output Class Initialized
+DEBUG - 2013-07-11 22:30:19 --> Security Class Initialized
+DEBUG - 2013-07-11 22:30:19 --> Input Class Initialized
+DEBUG - 2013-07-11 22:30:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:30:19 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:30:19 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:30:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:30:19 --> Language Class Initialized
+DEBUG - 2013-07-11 22:30:19 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:30:19 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:30:19 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:30:19 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:30:19 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:30:19 --> Form Validation Class Initialized
+DEBUG - 2013-07-11 22:30:19 --> File loaded: application/views/register_view.php
+DEBUG - 2013-07-11 22:30:19 --> Final output sent to browser
+DEBUG - 2013-07-11 22:30:19 --> Total execution time: 0.4661
+DEBUG - 2013-07-11 22:30:21 --> Config Class Initialized
+DEBUG - 2013-07-11 22:30:21 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:30:21 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:30:21 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:30:21 --> URI Class Initialized
+DEBUG - 2013-07-11 22:30:21 --> Router Class Initialized
+DEBUG - 2013-07-11 22:30:21 --> Output Class Initialized
+DEBUG - 2013-07-11 22:30:21 --> Security Class Initialized
+DEBUG - 2013-07-11 22:30:21 --> Input Class Initialized
+DEBUG - 2013-07-11 22:30:21 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:30:21 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:30:21 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:30:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:30:21 --> Language Class Initialized
+DEBUG - 2013-07-11 22:30:21 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:30:21 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:30:21 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:30:21 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:30:21 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:30:22 --> Model Class Initialized
+DEBUG - 2013-07-11 22:30:22 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 22:30:22 --> Final output sent to browser
+DEBUG - 2013-07-11 22:30:22 --> Total execution time: 0.4648
+DEBUG - 2013-07-11 22:30:23 --> Config Class Initialized
+DEBUG - 2013-07-11 22:30:23 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:30:23 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:30:23 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:30:23 --> URI Class Initialized
+DEBUG - 2013-07-11 22:30:23 --> Router Class Initialized
+DEBUG - 2013-07-11 22:30:23 --> Output Class Initialized
+DEBUG - 2013-07-11 22:30:23 --> Security Class Initialized
+DEBUG - 2013-07-11 22:30:23 --> Input Class Initialized
+DEBUG - 2013-07-11 22:30:23 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:30:23 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:30:23 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:30:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:30:24 --> Language Class Initialized
+DEBUG - 2013-07-11 22:30:24 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:30:24 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:30:24 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:30:24 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:30:24 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:30:24 --> Form Validation Class Initialized
+DEBUG - 2013-07-11 22:30:24 --> File loaded: application/views/create_project_view.php
+DEBUG - 2013-07-11 22:30:24 --> Final output sent to browser
+DEBUG - 2013-07-11 22:30:24 --> Total execution time: 0.4523
+DEBUG - 2013-07-11 22:30:24 --> Config Class Initialized
+DEBUG - 2013-07-11 22:30:25 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:30:25 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:30:25 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:30:25 --> URI Class Initialized
+DEBUG - 2013-07-11 22:30:25 --> Router Class Initialized
+DEBUG - 2013-07-11 22:30:25 --> Output Class Initialized
+DEBUG - 2013-07-11 22:30:25 --> Security Class Initialized
+DEBUG - 2013-07-11 22:30:25 --> Input Class Initialized
+DEBUG - 2013-07-11 22:30:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:30:25 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:30:25 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:30:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:30:25 --> Language Class Initialized
+DEBUG - 2013-07-11 22:30:25 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:30:25 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:30:25 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:30:25 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:30:25 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:30:25 --> Model Class Initialized
+DEBUG - 2013-07-11 22:30:25 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 22:30:25 --> Final output sent to browser
+DEBUG - 2013-07-11 22:30:25 --> Total execution time: 0.4499
+DEBUG - 2013-07-11 22:30:43 --> Config Class Initialized
+DEBUG - 2013-07-11 22:30:43 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:30:43 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:30:43 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:30:43 --> URI Class Initialized
+DEBUG - 2013-07-11 22:30:43 --> Router Class Initialized
+DEBUG - 2013-07-11 22:30:43 --> Output Class Initialized
+DEBUG - 2013-07-11 22:30:43 --> Security Class Initialized
+DEBUG - 2013-07-11 22:30:43 --> Input Class Initialized
+DEBUG - 2013-07-11 22:30:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:30:43 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:30:43 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:30:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:30:43 --> Language Class Initialized
+DEBUG - 2013-07-11 22:30:43 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:30:43 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:30:43 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:30:43 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:30:43 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:30:43 --> Model Class Initialized
+DEBUG - 2013-07-11 22:30:43 --> File loaded: application/views/welcome_message.php
+DEBUG - 2013-07-11 22:30:43 --> Final output sent to browser
+DEBUG - 2013-07-11 22:30:43 --> Total execution time: 0.4471
+DEBUG - 2013-07-11 22:31:03 --> Config Class Initialized
+DEBUG - 2013-07-11 22:31:03 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:31:03 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:31:03 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:31:03 --> URI Class Initialized
+DEBUG - 2013-07-11 22:31:03 --> Router Class Initialized
+DEBUG - 2013-07-11 22:31:03 --> Output Class Initialized
+DEBUG - 2013-07-11 22:31:03 --> Security Class Initialized
+DEBUG - 2013-07-11 22:31:03 --> Input Class Initialized
+DEBUG - 2013-07-11 22:31:03 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:31:03 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:31:03 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:31:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:31:04 --> Language Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:31:04 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:31:04 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Model Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:31:04 --> Final output sent to browser
+DEBUG - 2013-07-11 22:31:04 --> Total execution time: 0.4669
+DEBUG - 2013-07-11 22:31:04 --> Config Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Config Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Config Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Config Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Hooks Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Utf8 Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:31:04 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:31:04 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:31:04 --> UTF-8 Support Enabled
+DEBUG - 2013-07-11 22:31:04 --> URI Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> URI Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> URI Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Router Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> URI Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Router Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Router Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Output Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Router Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Output Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Security Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Output Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Output Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Security Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Security Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Input Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Input Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Security Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:31:04 --> Input Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:31:04 --> Input Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:31:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:31:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:31:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:31:04 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:31:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:31:04 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:31:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:31:04 --> XSS Filtering completed
+DEBUG - 2013-07-11 22:31:04 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:31:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:31:04 --> CRSF cookie Set
+DEBUG - 2013-07-11 22:31:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:31:04 --> Language Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Language Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Language Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-11 22:31:04 --> Language Class Initialized
+DEBUG - 2013-07-11 22:31:04 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:31:04 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:31:05 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:31:05 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:31:05 --> Model Class Initialized
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:31:05 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:31:05 --> Final output sent to browser
+DEBUG - 2013-07-11 22:31:05 --> Total execution time: 0.8755
+DEBUG - 2013-07-11 22:31:05 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:31:05 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:31:05 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:31:05 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:31:05 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:31:05 --> Model Class Initialized
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:31:05 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:31:05 --> Final output sent to browser
+DEBUG - 2013-07-11 22:31:05 --> Total execution time: 1.1685
+DEBUG - 2013-07-11 22:31:05 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:31:05 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:31:05 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:31:05 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:31:05 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:31:05 --> Model Class Initialized
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:31:05 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:31:05 --> Final output sent to browser
+DEBUG - 2013-07-11 22:31:05 --> Total execution time: 1.4480
+DEBUG - 2013-07-11 22:31:05 --> Loader Class Initialized
+DEBUG - 2013-07-11 22:31:05 --> Helper loaded: url_helper
+DEBUG - 2013-07-11 22:31:05 --> Helper loaded: form_helper
+DEBUG - 2013-07-11 22:31:05 --> Database Driver Class Initialized
+DEBUG - 2013-07-11 22:31:05 --> Controller Class Initialized
+DEBUG - 2013-07-11 22:31:05 --> Model Class Initialized
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 33
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 36
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 37
+ERROR - 2013-07-11 22:31:05 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\ciLogin\application\views\project_view.php 38
+DEBUG - 2013-07-11 22:31:06 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-11 22:31:06 --> Final output sent to browser
+DEBUG - 2013-07-11 22:31:06 --> Total execution time: 1.7264

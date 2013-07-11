@@ -18,15 +18,15 @@
 	<div class="top-right-user-info">
 
 		<?php if($is_admin == 1): ?>
-			 <a href="<?= site_url('/welcome'); ?>"> Home</a>  
-			 <a href="<?= site_url('/register'); ?>"> Create Account</a>  
-			 <a href="<?= site_url('/create_project'); ?>"> Create Project</a>  
-			 <a href="<?= site_url('/add_project_user'); ?>"> Add Project User</a>  
+			 <a href="<?php echo site_url('/welcome'); ?>"> Home</a>  
+			 <a href="<?php echo site_url('/register'); ?>"> Create Account</a>  
+			 <a href="<?php echo site_url('/create_project'); ?>"> Create Project</a>  
+			 <a href="<?php echo site_url('/add_project_user'); ?>"> Add Project User</a>  
 
 		<?php endif; ?>
 		
 
-		<a href="<?= site_url('/logout'); ?>"> Logout </a>
+		<a href="<?php echo site_url('/logout'); ?>"> Logout </a>
 
 	</div>
 
