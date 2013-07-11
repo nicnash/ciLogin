@@ -34,6 +34,7 @@ class Welcome extends CI_Controller {
 	{
 
 
+
 		$this->load->model('admin_model');
 
 		$data['row'] = $this->admin_model->get_users();

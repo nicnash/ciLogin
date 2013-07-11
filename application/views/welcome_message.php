@@ -74,7 +74,7 @@
 
 <?php 
 	foreach( $row as $r){
-		echo "<h1> " . $r->email_address . "</h1>";
+		echo "<h4> " . $r->email_address . "</h4>";
 	}
 ?>
 

@@ -14,7 +14,7 @@
 
 <body>
 
-<h1> success</h1>
+<h1>registration success</h1>
 		
 
 </body>

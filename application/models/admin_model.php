@@ -48,6 +48,7 @@ class Admin_model extends CI_Model {
 			}
 			return $data;
 	}
+
 	// public function verify_user($email,$password)
 	// {
 	// 	$q = $this
@@ -66,15 +67,49 @@ class Admin_model extends CI_Model {
 	// 	}
 	// 	return false;		
 	// }
-	public function create_user($email,$password)
+	
+
+
+	// public function id_for_username($username){
+
+	// 	// $this->db->select('id');
+
+	// 	// $q = $this
+	// 	// 	->db
+	// 	// 	->where('email_address', $username)				
+	// 	// 	->limit(1)
+	// 	// 	->get('users');
+
+
+	// 	return -1;
+
+	// }
+
+
+	public function create_user($email,$password,$username)
 	{
+
+		$q = $this
+			->db
+			->where('email_address', $username)				
+			->limit(1)
+			->get('users');
+
+		
+
+		$created_by = $q->row(0)->id;
+		
+		// $created_by = id_for_username($username);		
 
 		$data = array(
 			'email_address' => $email,
-			'password' => sha1($password)
+			'password' => sha1($password),
+			'created_by' => $created_by
 		);
+		// print_r($data);
 
 		$this->db->insert('users', $data);
+
 
 	}
 

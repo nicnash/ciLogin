@@ -13,6 +13,7 @@
 </head>
 
 <body>
+<a href="<?= site_url('/admin'); ?>"> Welcome Screen</a>
 
 <h1> Register</h1>
 <?php echo form_open('register'); ?>

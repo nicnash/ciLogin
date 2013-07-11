@@ -36,7 +36,7 @@ class Register extends CI_Controller {
 
 
 		$this->load->library('form_validation');
-		$this->form_validation->set_rules('email_address', 'Email Address', 'required|valid_email');
+		$this->form_validation->set_rules('email_address','Email Address','required|valid_email');
 		$this->form_validation->set_rules('password', 'Password', 'required|min_length[4]');
 
 		if($this->form_validation->run() !== false){
@@ -46,10 +46,12 @@ class Register extends CI_Controller {
 
 			$this->admin_model->create_user(
 				$this->input->post('email_address'), 
-				$this->input->post('password')
+				$this->input->post('password'),
+				$_SESSION['username']
 			);
 
-			$this->load->view('registersuccess_view');
+			$this->load->view('register_success_view');
+
 
 			// if($res!==false){
 			// 	//person has an account

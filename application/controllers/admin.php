@@ -38,7 +38,7 @@ class Admin extends CI_Controller{
 				redirect('welcome');
 			}
 		}
-		
+
 		$this->load->view('login_view');
 
 	}
