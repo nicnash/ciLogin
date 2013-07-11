@@ -63,29 +63,39 @@
 		border: 1px solid #D0D0D0;
 		-webkit-box-shadow: 0 0 8px #D0D0D0;
 	}
+	.top-right-user-info{
+		text-align: right;
+	}
 	</style>
 </head>
 <body>
+	Hello <?php echo $current_user ?> 
 	<div class="top-right-user-info">
 
-		<?php if($admin == 1): ?>
+		<?php if($is_admin == 1): ?>
 			 <a href="<?= site_url('/register'); ?>"> Create Account</a>  
+			 <a href="<?= site_url('/create_project'); ?>"> Create Project</a>  
+
 		<?php endif; ?>
 		
-		<a href="<?= site_url('/create_project'); ?>"> Create Project</a>  
 
 		<a href="<?= site_url('/logout'); ?>"> Logout </a>
 
 	</div>
 <h1> kickass Members only page</h1>
+<?php if($is_admin == 1): ?>		
+	<h2> Member List </h2>
 
-<h2> Member List </h2>
+	<?php 
 
-<?php 
-	foreach( $userrow as $r){
-		echo "<h4> " . $r->email_address . "</h4>";
-	}
-?>
+		foreach( $userrow as $r){
+			echo "<h4> " . $r->email_address . "</h4>";
+		}
+	?>
+<?php endif; ?>
+
+
+
 
 <h2> Project List </h2>
 

@@ -61,6 +61,16 @@ class Admin_model extends CI_Model {
 			return $data;
 	}
 
+	function is_admin($email){
+		$q = $this
+			->db
+			->where('email_address', $email)				
+			->limit(1)
+			->get('users');
+
+		return $q->row(0)->admin;
+	}
+
 	// public function verify_user($email,$password)
 	// {
 	// 	$q = $this
@@ -137,7 +147,6 @@ class Admin_model extends CI_Model {
 		// 	->limit(1)
 		// 	->get('users');
 
-		
 
 		// $created_by_id = $q->row(0)->id;
 		

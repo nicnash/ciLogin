@@ -36,7 +36,8 @@ class Welcome extends CI_Controller {
 
 		$data['userrow'] = $this->admin_model->get_users();
 		$data['projectrow'] = $this->admin_model->get_projects();
-		$data['admin'] = true;
+		$data['is_admin'] = $this->admin_model->is_admin($_SESSION['username']);
+		$data['current_user'] = $_SESSION['username'];
 		$this->load->view('welcome_message', $data);
 	}
 }
