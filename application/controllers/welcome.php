@@ -32,16 +32,12 @@ class Welcome extends CI_Controller {
 
 	public function index()
 	{
-
-
-
 		$this->load->model('admin_model');
 
-		$data['row'] = $this->admin_model->get_users();
-
+		$data['userrow'] = $this->admin_model->get_users();
+		$data['projectrow'] = $this->admin_model->get_projects();
+		$data['admin'] = true;
 		$this->load->view('welcome_message', $data);
-		
-
 	}
 }
 

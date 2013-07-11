@@ -23,7 +23,7 @@
 	<?php 
 		echo form_label('Password:', 'password');
  		echo form_password('password','','id="password"');
- 		echo form_hidden('url', 'login');
+ 		// echo form_hidden('url', 'login');
 	?>
 </p>
 

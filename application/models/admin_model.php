@@ -49,6 +49,18 @@ class Admin_model extends CI_Model {
 			return $data;
 	}
 
+	function get_projects(){
+		$this->db->select('project_name');
+		$q = $this->db->get('projects');
+
+		if($q->num_rows()>0)
+			foreach ($q->result() as $row) {
+				$data[] = $row;
+				# code...
+			}
+			return $data;
+	}
+
 	// public function verify_user($email,$password)
 	// {
 	// 	$q = $this
@@ -86,25 +98,28 @@ class Admin_model extends CI_Model {
 	// }
 
 
-	public function create_user($email,$password,$username)
+	public function create_user($first_name,$last_name,$email,$password,$created_by_email,$admin)
 	{
 
 		$q = $this
 			->db
-			->where('email_address', $username)				
+			->where('email_address', $created_by_email)				
 			->limit(1)
 			->get('users');
 
 		
 
-		$created_by = $q->row(0)->id;
+		$created_by_id = $q->row(0)->id;
 		
 		// $created_by = id_for_username($username);		
 
 		$data = array(
+			'first_name' => $first_name,
+			'last_name' => $last_name,
 			'email_address' => $email,
 			'password' => sha1($password),
-			'created_by' => $created_by
+			'created_by' => $created_by_id,
+			'admin' => $admin
 		);
 		// print_r($data);
 
@@ -112,5 +127,41 @@ class Admin_model extends CI_Model {
 
 
 	}
+
+	public function create_project($bbi_project_id,$project_name)
+	{
+
+		// $q = $this
+		// 	->db
+		// 	->where('email_address', $created_by_email)				
+		// 	->limit(1)
+		// 	->get('users');
+
+		
+
+		// $created_by_id = $q->row(0)->id;
+		
+		// $created_by = id_for_username($username);		
+
+		// $data = array(
+		// 	'first_name' => $first_name,
+		// 	'last_name' => $last_name,
+		// 	'email_address' => $email,
+		// 	'password' => sha1($password),
+		// 	'created_by' => $created_by_id,
+		// 	'admin' => $admin
+		// );
+
+		$data = array(
+			'bbi_project_id' => $bbi_project_id,
+			'project_name' => $project_name,			
+		);
+		// print_r($data);
+
+		$this->db->insert('projects', $data);
+
+
+	}
+
 
 }

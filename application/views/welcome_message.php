@@ -21,6 +21,7 @@
 		color: #003399;
 		background-color: transparent;
 		font-weight: normal;
+		padding-left: 15px;
 	}
 
 	h1 {
@@ -66,19 +67,33 @@
 </head>
 <body>
 	<div class="top-right-user-info">
+
+		<?php if($admin == 1): ?>
+			 <a href="<?= site_url('/register'); ?>"> Create Account</a>  
+		<?php endif; ?>
+		
+		<a href="<?= site_url('/create_project'); ?>"> Create Project</a>  
+
 		<a href="<?= site_url('/logout'); ?>"> Logout </a>
+
 	</div>
 <h1> kickass Members only page</h1>
 
 <h2> Member List </h2>
 
 <?php 
-	foreach( $row as $r){
+	foreach( $userrow as $r){
 		echo "<h4> " . $r->email_address . "</h4>";
 	}
 ?>
 
-<a href="<?= site_url('/register'); ?>"> Create Account</a>
+<h2> Project List </h2>
+
+<?php 
+	foreach( $projectrow as $pr){
+		echo "<h4> " . $pr->project_name . "</h4>";
+	}
+?>
 
 </body>
 </html>

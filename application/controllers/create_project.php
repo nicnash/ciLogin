@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Register extends CI_Controller {
+class Create_project extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -36,25 +36,20 @@ class Register extends CI_Controller {
 
 
 		$this->load->library('form_validation');
-		$this->form_validation->set_rules('first_name','first_name','required');
-		$this->form_validation->set_rules('email_address','Email Address','required|valid_email');
-		$this->form_validation->set_rules('password', 'Password', 'required|min_length[4]');
+		$this->form_validation->set_rules('bbi_project_id','bbi_project_id','required|integer');
+		$this->form_validation->set_rules('project_name','Project Name','required');
 
 		if($this->form_validation->run() !== false){
 			//then form validation passed. get from db.
 
 			$this->load->model('admin_model');
 
-			$this->admin_model->create_user(
-				$this->input->post('first_name'), 
-				$this->input->post('last_name'),
-				$this->input->post('email_address'), 
-				$this->input->post('password'),
-				$_SESSION['username'],
-				$this->input->post('admin')
+			$this->admin_model->create_project(
+				$this->input->post('bbi_project_id'), 
+				$this->input->post('project_name')
 			);
 
-			$this->load->view('register_success_view');
+			$this->load->view('project_create_success_view');
 
 
 			// if($res!==false){
@@ -66,7 +61,7 @@ class Register extends CI_Controller {
 			// }
 		}
 
-		$this->load->view('register_view');
+		$this->load->view('create_project_view');
 
 
 
@@ -83,5 +78,5 @@ class Register extends CI_Controller {
 	}
 }
 
-/* End of file register.php */
-/* Location: ./application/controllers/register.php */
+/* End of file create_project.php */
+/* Location: ./application/controllers/create_project.php */
