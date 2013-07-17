@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "admin";
+$route['default_controller'] = "login";
 $route['404_override'] = '';
 $route['logout'] = 'admin/logout';
 $route['project/(:any)'] = 'project/id/$1';

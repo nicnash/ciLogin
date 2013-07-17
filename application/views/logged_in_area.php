@@ -1,30 +1,21 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<title>Welcome to CodeIgniter</title>
-
-	<style type="text/css">
-
-
-	</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+	<title>untitled</title>
 </head>
 <body>
+	<h2>Welcome Back, <?php echo $this->session->userdata('email_address'); ?>!</h2>
+     <p>This section represents the area that only logged in members can access.</p>
+	<h4><?php echo anchor('login/logout', 'Logout'); ?></h4>
+</body>
+</html>	
+
+
+
 	Hello <?php echo $current_user ?> 
-	<div class="top-right-user-info">
-			 <a href="<?php echo site_url('/'); ?>"> Home</a>  
-
-		<?php if($is_admin == 1): ?>
-			 <a href="<?php echo site_url('/register'); ?>"> Create Account</a>  
-			 <a href="<?php echo site_url('/create_project'); ?>"> Create Project</a>  
-			 <a href="<?php echo site_url('/add_project_user'); ?>"> Add Project User</a>  
-
-		<?php endif; ?>
-		
-
-		<a href="<?php echo site_url('login/logout'); ?>"> Logout </a>
-
-	</div>
+	
 <h1> kickass Members only page</h1>
 
 <?php if($userProjectRow!=null): ?>		
@@ -68,6 +59,3 @@
 		}
 	?>
 <?php endif; ?>
-
-</body>
-</html>

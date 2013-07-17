@@ -20,59 +20,89 @@ class Project extends CI_Controller {
 
 	public function __construct()
 	{
-		session_start();
 		parent::__construct();
-
-
-		//if not logged in, deny access (reroute )
-		if(!isset($_SESSION['username']))
-		{
-			redirect('admin');
-		}
+		$this->is_logged_in();
 	}
+	// public function index()
+	// {
+	// 	$this->load->view('projects');
+	// }
 
-	public function index($project_id)
+	public function index()
 	{
-		
 		$this->load->model('project_model');
+		$this->load->model('users_model');
 
-		$data = $this->project_model->get_project($project_id);
+		$email_address = $this->session->userdata('email_address');
+		$data['is_admin'] = $this->users_model->is_admin($email_address);
 
-		$this->load->view('project_view',$data);
+		// if($project_id != ''){
+			// $data = $this->project_model->get_project($project_id);
+
+			// $data['main_content'] = 'project_view';
+			// $this->load->view('includes/template', $data);
+
+		// }else{
+			$data['projects'] = $this->project_model->get_user_projects($email_address);
+
+			$data['main_content'] = 'projects';
+			$this->load->view('includes/template', $data);
+		// }
 
 	}
+
 	public function id($project_id)
-	{		
-		$this->load->model('users_model');
+	{
+
 		$this->load->model('project_model');
-		$data['userProjectRow'] = $this->project_model->get_user_projects($_SESSION['username']);
-		$data['is_admin'] = $this->users_model->is_admin($_SESSION['username']);
+		$this->load->model('users_model');
+
+		$email_address = $this->session->userdata('email_address');
+		$data['is_admin'] = $this->users_model->is_admin($email_address);
+		
+		$data['project'] = $this->project_model->get_project($project_id);
+
+			$data['main_content'] = 'project_view';
+			$this->load->view('includes/template', $data);
+		
 
 
-// print_r($data['userProjectRow']);
-		$access=false;
-		foreach ($data['userProjectRow'] as $r) {
-			if($r->project_id == $project_id)
-			{
-				$access=true;
-				break;
-			}
+	}
+// 	public function id($project_id)
+// 	{
+// echo "a2222sdf";
+// die();
+// 			$email_address = $this->session->userdata('email_address');;
+// 		$this->load->model('users_model');
+// 		$this->load->model('project_model');
+// 		$data['userProjectRow'] = $this->project_model->get_user_projects($email_address);
+// 		$data['is_admin'] = $this->users_model->is_admin($email_address);
 
 
-		}
-// echo "access= " . $access;
-		if($access == true || $data['is_admin'] == 1){
-			$data['project_info'] = $this->project_model->get_project($project_id);
-			$data['userrow'] = $this->users_model->get_users();
-			$data['projectrow'] = $this->project_model->get_projects();
-			$data['current_user'] = $_SESSION['username'];
+// // print_r($data['userProjectRow']);
+// 		$access=false;
+// 		foreach ($data['userProjectRow'] as $r) {
+// 			if($r->project_id == $project_id)
+// 			{
+// 				$access=true;
+// 				break;
+// 			}
+
+
+// 		}
+// // echo "access= " . $access;
+// 		if($access == true || $data['is_admin'] == 1){
+// 			$data['project_info'] = $this->project_model->get_project($project_id);
+// 			$data['userrow'] = $this->users_model->get_users();
+// 			$data['projectrow'] = $this->project_model->get_projects();
+// 			$data['current_user'] = $email_address;
 
 				
 
-			$this->load->view('project_view',$data);
-		}else{
-			redirect('admin');
-		}
+// 			$this->load->view('project_view',$data);
+// 		}else{
+// 			redirect('admin');
+// 		}
 
 // 		$this->load->library('ftp');
 
@@ -103,7 +133,17 @@ class Project extends CI_Controller {
 // die();
 		
 
-	}
+	// }
+	function is_logged_in()
+	{
+		$is_logged_in = $this->session->userdata('is_logged_in');
+		if(!isset($is_logged_in) || $is_logged_in != true)
+		{
+			echo 'You don\'t have permission to access this page. <a href="../login">Login</a>';	
+			die();		
+			//$this->load->view('login_form');
+		}		
+	}	
 }
 
 /* End of file project.php */

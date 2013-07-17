@@ -21,8 +21,6 @@ class Register extends CI_Controller {
 	public function __construct()
 	{
 		session_start();
-		parent::__construct();
-
 
 		//if not logged in, deny access (reroute )
 		if(!isset($_SESSION['username']))

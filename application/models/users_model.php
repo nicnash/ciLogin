@@ -6,22 +6,35 @@ class users_model extends CI_Model {
 
 	}
 
-	public function verify_user($email,$password){
-		$q = $this
-				->db
-				->where('email_address', $email)
-				->where('password',sha1($password))
-				->limit(1)
-				->get('users');
+	// public function verify_user($email,$password){
+	// 	$q = $this
+	// 			->db
+	// 			->where('email_address', $email)
+	// 			->where('password',sha1($password))
+	// 			->limit(1)
+	// 			->get('users');
 
-		if($q->num_rows > 0){
-			// echo '<pre>';
-			// print_r($q->row());
-			// echo'</pre>';
+	// 	if($q->num_rows == 1){
+	// 		// echo '<pre>';
+	// 		// print_r($q->row());
+	// 		// echo'</pre>';
 
-			return $q->row();
+	// 		return $q->row();
+	// 	}
+	// 	return false;		
+	// }
+
+	function validate()
+	{
+		$this->db->where('email_address', $this->input->post('email_address'));
+		$this->db->where('password', sha1($this->input->post('password')));
+		$query = $this->db->get('users');
+		
+		if($query->num_rows == 1)
+		{
+			return true;
 		}
-		return false;		
+		
 	}
 
 

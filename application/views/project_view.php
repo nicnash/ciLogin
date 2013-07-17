@@ -1,48 +1,9 @@
-<!DOCTYPE html>
 
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>untitled</title>
-	<style> 
-	.top-right-user-info{
-		text-align: right;
-	}
-	label {display:block;} .errors { color: red } </style>
-	</head>
+<h1><?php echo $project->project_name ?></h1>
 
-<body>
-
-	Hello <?php echo $current_user ?> 
-
-	<div class="top-right-user-info">
-
-		<?php if($is_admin == 1): ?>
-			 <a href="<?php echo site_url('/welcome'); ?>"> Home</a>  
-			 <a href="<?php echo site_url('/register'); ?>"> Create Account</a>  
-			 <a href="<?php echo site_url('/create_project'); ?>"> Create Project</a>  
-			 <a href="<?php echo site_url('/add_project_user'); ?>"> Add Project User</a>  
-
-		<?php endif; ?>
-		
-
-		<a href="<?php echo site_url('/logout'); ?>"> Logout </a>
-
-	</div>
-
-	<h1><?php $project_info->project_name ?></h1>
 <?php
 // print_r($project_info);
-echo $project_info->bbi_project_id. "<br>";
-echo $project_info->project_name. "<br>";
-echo $project_info->html;
+echo $project->bbi_project_id. "<br>";
+echo $project->project_name. "<br>";
+// echo $project_info->html;
 ?>
-
-
-
-
-
-
-
-</body>
-</html>

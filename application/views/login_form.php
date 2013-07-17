@@ -1,14 +1,15 @@
 
 <div id="login_form">
 	<h1>BBI Portal Login</h1>
-	<?php echo form_open('admin'); ?>
+	<?php echo form_open('login/validate_credentials'); ?>
 	<p>
 		<?php 
 			// echo form_label('Email Address:', 'email_address');
-	 		echo form_input('email_address', 'Email','id="email_address"');
+	 		echo form_input('email_address', set_value('email_address', 'Email Address'));
+	 		// echo form_input('first_name', );
+
 		?>
 	</p>
-
 
 	<p>
 		<?php 
