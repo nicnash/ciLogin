@@ -30,7 +30,7 @@ class Login extends CI_Controller {
 				'is_logged_in' => true
 			);
 			$this->session->set_userdata($data);
-			redirect('site');
+			redirect('project');
 		}
 		else // incorrect username or password
 		{
@@ -44,7 +44,7 @@ class Login extends CI_Controller {
 		$this->load->view('includes/template', $data);
 	}
 	
-	function create_member()
+	function create()
 	{
 		$this->load->library('form_validation');
 		

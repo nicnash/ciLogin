@@ -7,3 +7,7 @@ echo $project->bbi_project_id. "<br>";
 echo $project->project_name. "<br>";
 // echo $project_info->html;
 ?>
+
+
+<div id="project_member_list">
+</div>

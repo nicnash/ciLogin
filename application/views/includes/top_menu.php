@@ -2,7 +2,7 @@
 			<?php echo anchor('/', 'Home'); ?>
 		<?php if($is_admin == 1): ?>
 			 
-			 			<?php echo anchor('/register', 'Create Account'); ?>
+			 			<?php echo anchor('/register', 'Create User'); ?>
 
 <!-- 			 <?php echo anchor('project', 'Projects'); ?> -->
 <!-- 			 <a href="<?php echo site_url('/create_project'); ?>"> Create Project</a>  

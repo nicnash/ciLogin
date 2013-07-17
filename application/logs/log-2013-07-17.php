@@ -14176,3 +14176,73 @@ DEBUG - 2013-07-17 23:45:35 --> File loaded: application/views/includes/footer.p
 DEBUG - 2013-07-17 23:45:35 --> File loaded: application/views/includes/template.php
 DEBUG - 2013-07-17 23:45:35 --> Final output sent to browser
 DEBUG - 2013-07-17 23:45:35 --> Total execution time: 0.0150
+DEBUG - 2013-07-17 23:47:20 --> Config Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> Hooks Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> Utf8 Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> UTF-8 Support Enabled
+DEBUG - 2013-07-17 23:47:20 --> URI Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> Router Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> Output Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> Security Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> Input Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:47:20 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:47:20 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:47:20 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:47:20 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:47:20 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:47:20 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:47:20 --> CRSF cookie Set
+DEBUG - 2013-07-17 23:47:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-17 23:47:20 --> Language Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> Loader Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> Helper loaded: url_helper
+DEBUG - 2013-07-17 23:47:20 --> Helper loaded: form_helper
+DEBUG - 2013-07-17 23:47:20 --> Database Driver Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> Session Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> Helper loaded: string_helper
+DEBUG - 2013-07-17 23:47:20 --> Session routines successfully run
+DEBUG - 2013-07-17 23:47:20 --> Controller Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> Model Class Initialized
+DEBUG - 2013-07-17 23:47:20 --> File loaded: application/views/includes/header.php
+DEBUG - 2013-07-17 23:47:20 --> File loaded: application/views/includes/top_menu.php
+DEBUG - 2013-07-17 23:47:20 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-17 23:47:20 --> File loaded: application/views/includes/footer.php
+DEBUG - 2013-07-17 23:47:20 --> File loaded: application/views/includes/template.php
+DEBUG - 2013-07-17 23:47:20 --> Final output sent to browser
+DEBUG - 2013-07-17 23:47:20 --> Total execution time: 0.0139
+DEBUG - 2013-07-17 23:50:33 --> Config Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> Hooks Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> Utf8 Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> UTF-8 Support Enabled
+DEBUG - 2013-07-17 23:50:33 --> URI Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> Router Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> Output Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> Security Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> Input Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:50:33 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:50:33 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:50:33 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:50:33 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:50:33 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:50:33 --> XSS Filtering completed
+DEBUG - 2013-07-17 23:50:33 --> CRSF cookie Set
+DEBUG - 2013-07-17 23:50:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-07-17 23:50:33 --> Language Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> Loader Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> Helper loaded: url_helper
+DEBUG - 2013-07-17 23:50:33 --> Helper loaded: form_helper
+DEBUG - 2013-07-17 23:50:33 --> Database Driver Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> Session Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> Helper loaded: string_helper
+DEBUG - 2013-07-17 23:50:33 --> Session routines successfully run
+DEBUG - 2013-07-17 23:50:33 --> Controller Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> Model Class Initialized
+DEBUG - 2013-07-17 23:50:33 --> File loaded: application/views/includes/header.php
+DEBUG - 2013-07-17 23:50:33 --> File loaded: application/views/includes/top_menu.php
+DEBUG - 2013-07-17 23:50:33 --> File loaded: application/views/project_view.php
+DEBUG - 2013-07-17 23:50:33 --> File loaded: application/views/includes/footer.php
+DEBUG - 2013-07-17 23:50:33 --> File loaded: application/views/includes/template.php
+DEBUG - 2013-07-17 23:50:33 --> Final output sent to browser
+DEBUG - 2013-07-17 23:50:33 --> Total execution time: 0.0174

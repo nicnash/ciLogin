@@ -54,6 +54,37 @@ class Project extends CI_Controller {
 	public function id($project_id)
 	{
 
+// static $allFiles = array(); 
+//     $contents = ftp_nlist($ftpConnection, $path); 
+
+//     foreach($contents as $currentFile) { 
+//         // assuming its a folder if there's no dot in the name 
+//         if (strpos($currentFile, '.') === false) { 
+//             ftpRecursiveFileListing($ftpConnection, $currentFile); 
+//         } 
+//         $allFiles[$path][] = substr($currentFile, strlen($path) + 1); 
+//     } 
+					// $ftp_server = '205.178.145.65';
+					// $conn_id = ftp_connect($ftp_server);
+					// $ftp_user_name = 'ftp1956912';
+					// $ftp_user_pass='Bbi200022~';
+
+					// // login with username and password
+					// $login_result = ftp_login($conn_id, $ftp_user_name, $ftp_user_pass);
+
+					// // get contents of the current directory
+					// $contents = ftp_nlist($conn_id, ".");
+
+					// // output $contents
+					// var_dump($contents);
+
+
+
+
+
+
+
+
 		$this->load->model('project_model');
 		$this->load->model('users_model');
 
@@ -65,6 +96,46 @@ class Project extends CI_Controller {
 			$data['main_content'] = 'project_view';
 			$this->load->view('includes/template', $data);
 		
+
+
+	}
+
+	public function create(){
+		$this->load->model('users_model');
+
+		$email_address = $this->session->userdata('email_address');
+		$data['is_admin'] = $this->users_model->is_admin($email_address);
+
+		$this->load->library('form_validation');
+		$this->form_validation->set_rules('bbi_project_id','bbi_project_id','required|integer');
+		$this->form_validation->set_rules('project_name','Project Name','required');
+
+		if($this->form_validation->run() !== false){
+			//then form validation passed. get from db.
+
+			$this->load->model('project_model');
+
+			$this->project_model->create_project(
+				$this->input->post('bbi_project_id'), 
+				$this->input->post('project_name')
+			);
+
+			$data['main_content'] = 'project_create_success';
+			$this->load->view('includes/template', $data);
+
+
+			// if($res!==false){
+			// 	//person has an account
+			// 	// echo "PASSED!";
+
+			// 	$_SESSION['username'] = $this->input->post('email_address');
+			// 	redirect('welcome');
+			// }
+		}
+		
+		$data['main_content'] = 'create_project_view';
+		$this->load->view('includes/template', $data);
+
 
 
 	}

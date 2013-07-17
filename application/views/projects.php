@@ -1,4 +1,6 @@
 <h2>My Projects</h2>
+			 			<?php echo anchor('/project/create', 'Create Project'); ?>
+
 
 		<?php 
 

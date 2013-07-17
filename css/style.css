@@ -72,6 +72,15 @@
 	h1 {
 		text-shadow: 0 1px 0 white;
 	}
+	#main_content{
+		width: auto;
+		background: #f0f0f0 url(../img/login_bg.jpg) repeat-x 0 0 ;
+		border: 1px solid white;
+		margin: 0px auto 0;
+		padding: 1em;
+		-moz-border-radius: 3px;
+		-webkit-border-radius: 3px;
+	}
 	#portalInfo{
 		background: #e3e3e3;
 		border-top: 1px solid white;

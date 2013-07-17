@@ -13,10 +13,10 @@
 </head>
 
 <body>
-<a href="<?= site_url('/admin'); ?>"> Welcome Screen</a>
+<a href="<?= site_url('/'); ?>"> Welcome Screen</a>
 
 <h1> Register</h1>
-<?php echo form_open('create_project'); ?>
+<?php echo form_open('project/create'); ?>
 <p>
 	<?php 
 		echo form_label('BBI Project #:*', 'bbi_project_id');
