@@ -32,17 +32,17 @@ class Welcome extends CI_Controller {
 
 	public function index()
 	{
-
-		$this->load->model('admin_model');
-
-		$data['userrow'] = $this->admin_model->get_users();
-		$data['projectrow'] = $this->admin_model->get_projects();
-		$data['is_admin'] = $this->admin_model->is_admin($_SESSION['username']);
+		$data['main_content'] = 'welcome_message';
+		$this->load->model('users_model');
+		$this->load->model('project_model');
+		$data['userrow'] = $this->users_model->get_users();
+		$data['projectrow'] = $this->project_model->get_projects();
+		$data['is_admin'] = $this->users_model->is_admin($_SESSION['username']);
 		$data['current_user'] = $_SESSION['username'];
 
-		$data['userProjectRow'] = $this->admin_model->get_user_projects($_SESSION['username']);
+		$data['userProjectRow'] = $this->project_model->get_user_projects($_SESSION['username']);
 
-		$this->load->view('welcome_message', $data);
+		$this->load->view('includes/template', $data);
 	}
 	public function user($param1)
 	{

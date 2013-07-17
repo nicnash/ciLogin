@@ -42,9 +42,9 @@ class Add_project_user extends CI_Controller {
 		if($this->form_validation->run() !== false){
 			//then form validation passed. get from db.
 
-			$this->load->model('admin_model');
+			$this->load->model('projectPermissions_model');
 
-			$this->admin_model->add_project_user(
+			$this->projectPermissions_model->add_project_user(
 				$this->input->post('project_id'), 
 				$this->input->post('user_id'),
 				$this->input->post('user_security_level')
@@ -53,28 +53,9 @@ class Add_project_user extends CI_Controller {
 
 			$this->load->view('add_project_user_success_view');
 
-
-			// if($res!==false){
-			// 	//person has an account
-			// 	// echo "PASSED!";
-
-			// 	$_SESSION['username'] = $this->input->post('email_address');
-			// 	redirect('welcome');
-			// }
 		}
 
 		$this->load->view('add_project_user_view');
-
-
-
-
-
-
-
-		// $this->load->model('admin_model');
-		// $data['row'] = $this->admin_model->get_users();
-
-		// $this->load->view('register_view', $data);
 		
 
 	}

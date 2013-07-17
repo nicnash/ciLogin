@@ -42,38 +42,18 @@ class Create_project extends CI_Controller {
 		if($this->form_validation->run() !== false){
 			//then form validation passed. get from db.
 
-			$this->load->model('admin_model');
+			$this->load->model('project_model');
 
-			$this->admin_model->create_user(
+			$this->project_model->create_user(
 				$this->input->post('bbi_project_id'), 
 				$this->input->post('project_name')
 			);
 
 			$this->load->view('project_create_success_view');
 
-
-			// if($res!==false){
-			// 	//person has an account
-			// 	// echo "PASSED!";
-
-			// 	$_SESSION['username'] = $this->input->post('email_address');
-			// 	redirect('welcome');
-			// }
 		}
 
 		$this->load->view('create_project_view');
-
-
-
-
-
-
-
-		// $this->load->model('admin_model');
-		// $data['row'] = $this->admin_model->get_users();
-
-		// $this->load->view('register_view', $data);
-		
 
 	}
 }

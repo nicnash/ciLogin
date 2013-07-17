@@ -10,12 +10,12 @@ class Admin extends CI_Controller{
 
 	public function index()
 	{
-
 		if(isset($_SESSION['username']))//if logged already go directy to welcome page
 		{
 			redirect('welcome');
 		}
 		
+		$data['main_content'] = 'login_view';
 		$this->load->library('form_validation');
 		$this->form_validation->set_rules('email_address', 'Email Address', 'required|valid_email');
 		$this->form_validation->set_rules('password', 'Password', 'required|min_length[4]');
@@ -23,9 +23,9 @@ class Admin extends CI_Controller{
 		if($this->form_validation->run() !== false){
 			//then form validation passed. get from db.
 
-			$this->load->model('admin_model');
+			$this->load->model('users_model');
 
-			$res = $this->admin_model->verify_user(
+			$res = $this->users_model->verify_user(
 				$this->input->post('email_address'), 
 				$this->input->post('password')
 			);
@@ -33,20 +33,20 @@ class Admin extends CI_Controller{
 			if($res!==false){
 				//person has an account
 
-
 				$_SESSION['username'] = $this->input->post('email_address');
 				redirect('welcome');
 			}
 		}
-
-		$this->load->view('login_view');
-
+	
+		$this->load->view('includes/template', $data);
 	}
 
 	public function logout()
 	{
 		session_unset();
-		$this->load->view('login_view');
+		$data['main_content'] = 'login_view';
+
+		$this->load->view('includes/template', $data);
 	}
 
 

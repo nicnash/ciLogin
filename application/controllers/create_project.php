@@ -42,9 +42,9 @@ class Create_project extends CI_Controller {
 		if($this->form_validation->run() !== false){
 			//then form validation passed. get from db.
 
-			$this->load->model('admin_model');
+			$this->load->model('project_model');
 
-			$this->admin_model->create_project(
+			$this->project_model->create_project(
 				$this->input->post('bbi_project_id'), 
 				$this->input->post('project_name')
 			);

@@ -34,26 +34,19 @@ class Project extends CI_Controller {
 	public function index($project_id)
 	{
 		
-		$this->load->model('admin_model');
+		$this->load->model('project_model');
 
-		$data = $this->admin_model->get_project($project_id);
-
-			
+		$data = $this->project_model->get_project($project_id);
 
 		$this->load->view('project_view',$data);
 
-
-
-		
-
 	}
 	public function id($project_id)
-	{
-		
-		$this->load->model('admin_model');
-
-		$data['userProjectRow'] = $this->admin_model->get_user_projects($_SESSION['username']);
-		$data['is_admin'] = $this->admin_model->is_admin($_SESSION['username']);
+	{		
+		$this->load->model('users_model');
+		$this->load->model('project_model');
+		$data['userProjectRow'] = $this->project_model->get_user_projects($_SESSION['username']);
+		$data['is_admin'] = $this->users_model->is_admin($_SESSION['username']);
 
 
 // print_r($data['userProjectRow']);
@@ -69,9 +62,9 @@ class Project extends CI_Controller {
 		}
 // echo "access= " . $access;
 		if($access == true || $data['is_admin'] == 1){
-			$data['project_info'] = $this->admin_model->get_project($project_id);
-			$data['userrow'] = $this->admin_model->get_users();
-			$data['projectrow'] = $this->admin_model->get_projects();
+			$data['project_info'] = $this->project_model->get_project($project_id);
+			$data['userrow'] = $this->users_model->get_users();
+			$data['projectrow'] = $this->project_model->get_projects();
 			$data['current_user'] = $_SESSION['username'];
 
 				
@@ -81,8 +74,33 @@ class Project extends CI_Controller {
 			redirect('admin');
 		}
 
+// 		$this->load->library('ftp');
+
+// 		$config['hostname'] = '205.178.145.65';
+// 		$config['username'] = 'ftp1956912';
+// 		$config['password'] = 'Bbi200022~';
+// 		$config['debug']    = TRUE;
+
+// 		$this->ftp->connect($config);
+
+// 		// $this->ftp->mirror('/path/to/myfolder/', '/public_html/myfolder/');
+// 		$list = $this->ftp->list_files('/htdocs/projects/portaltest/');
+// 				 print_r($list);
+
+// 		foreach ($list as $row) {
+// 			# code...
+// 			$list2 = $this->ftp->list_files($row);
+// 			print_r($list2);
+// 		}
+// 		// $list = $this->ftp->directory_map('/htdocs/');
 
 
+// 		// foreach ($list as $file) {
+// 		// 	echo $file . "<br>";
+// 		// }
+
+// 		$this->ftp->close();
+// die();
 		
 
 	}

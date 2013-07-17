@@ -43,9 +43,9 @@ class Register extends CI_Controller {
 		if($this->form_validation->run() !== false){
 			//then form validation passed. get from db.
 
-			$this->load->model('admin_model');
+			$this->load->model('users_model');
 
-			$this->admin_model->create_user(
+			$this->users_model->create_user(
 				$this->input->post('first_name'), 
 				$this->input->post('last_name'),
 				$this->input->post('email_address'), 
